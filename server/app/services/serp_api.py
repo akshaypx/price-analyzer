@@ -24,3 +24,47 @@ async def google_shopping_search(query: str):
     search = GoogleSearch(params)
     results = search.get_dict()
     return results
+
+async def yahoo_shopping_search(query:str):
+    params = {
+    "api_key": settings.SERPAI_KEY,
+    "engine": "yahoo_shopping",
+    "p": query
+    }
+
+    search = GoogleSearch(params)
+    results = search.get_dict()
+    return results
+
+async def ebay_search(query:str):
+    params = {
+    "api_key": settings.SERPAI_KEY,
+    "engine": "ebay",
+    "_nkw": query
+    }
+
+    search = GoogleSearch(params)
+    results = search.get_dict()
+    return results
+
+async def walmart_search(query:str):
+    params = {
+    "currentUser": "[object Object]",
+    "api_key": settings.SERPAI_KEY,
+    "engine": "walmart",
+    "query": query
+    }
+    search = GoogleSearch(params)
+    results = search.get_dict()
+    return results
+
+async def home_depot_search(query:str):
+    params = {
+    "country": "us",
+    "api_key": settings.SERPAI_KEY,
+    "engine": "home_depot",
+    "q": query
+    }
+    search = GoogleSearch(params)
+    results = search.get_dict()
+    return results
