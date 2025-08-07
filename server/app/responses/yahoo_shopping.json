@@ -1,0 +1,877 @@
+{
+  "search_metadata": {
+    "id": "6894805e4de49a9d324f018e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8513009c83f18516/6894805e4de49a9d324f018e.json",
+    "created_at": "2025-08-07 10:30:54 UTC",
+    "processed_at": "2025-08-07 10:30:54 UTC",
+    "yahoo_shopping_url": "https://shopping.yahoo.com/search?p=coffee",
+    "raw_html_file": "https://serpapi.com/searches/8513009c83f18516/6894805e4de49a9d324f018e.html",
+    "prettify_html_file": "https://serpapi.com/searches/8513009c83f18516/6894805e4de49a9d324f018e.prettify",
+    "total_time_taken": 0.75
+  },
+  "search_parameters": {
+    "p": "coffee",
+    "engine": "yahoo_shopping",
+    "start": 0,
+    "limit": 60,
+    "device": "desktop"
+  },
+  "search_information": {
+    "total_results": 413229,
+    "total_pages": 6887
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "product_id": "00861943000492",
+      "link": "https://shopping.yahoo.com/product/00861943000492",
+      "title": "Coffee Surf Co. Dawn Patrol 12oz. whole bean coffee",
+      "seller": "Amazon",
+      "price": 12.49,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/gEuqn5aOS6tRiAFRRNT31A--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/31jJO-fMT8L._SL500_.jpg"
+    },
+    {
+      "position": 2,
+      "product_id": "amazon_B089WHDWL4",
+      "link": "https://shopping.yahoo.com/product/amazon_B089WHDWL4",
+      "title": "Coffee Beanery Michigan Cherry Swiss Water Process Decaf Flavored Coffee (Automatic Drip) - 12oz coffee bag - 100% Specialty Arabica Coffee",
+      "seller": "Amazon",
+      "price": 16.95,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/la3hooLnFrtUsg7VtDtcNQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41RHGbGIAeL._SL500_.jpg"
+    },
+    {
+      "position": 3,
+      "product_id": "amazon_B000I6RC9I",
+      "link": "https://shopping.yahoo.com/product/amazon_B000I6RC9I",
+      "title": "Coffee Masters Flavored Coffee, Highlander Grogg, Ground, 12-Ounce Bags (Pack of 4)",
+      "seller": "Amazon",
+      "price": 48,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/x9sam8s1_8wHqE5N3YUJiw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51-9AXSr8ML._SL500_.jpg"
+    },
+    {
+      "position": 4,
+      "product_id": "07661459733470",
+      "link": "https://shopping.yahoo.com/product/07661459733470",
+      "title": "Coffee Bean Direct Highlander Grogg Flavored, Whole Bean Coffee, 5 Pound Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 63.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/v44GEC3D8XvzGemEDbI76A--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/413cmwnn8BL._SL500_.jpg"
+    },
+    {
+      "position": 5,
+      "product_id": "00845183004106",
+      "link": "https://shopping.yahoo.com/product/00845183004106",
+      "title": "Coffee Bean Direct CO2 Espresso, Whole Bean Coffee, Dark Roast, 5 Pound Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 71.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/PDC2yN5lvvFEP3kzkvTxEQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/418OvJi7EAL._SL500_.jpg"
+    },
+    {
+      "position": 6,
+      "product_id": "00845183001556",
+      "link": "https://shopping.yahoo.com/product/00845183001556",
+      "title": "Coffee Bean Direct Ethiopian Yirgacheffe, Whole Bean Coffee, Light Roast, 5 Pound Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 71.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/GS57GvHv_.4zcaFrrcALIQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41m7sSMNWgL._SL500_.jpg"
+    },
+    {
+      "position": 7,
+      "product_id": "00845183001136",
+      "link": "https://shopping.yahoo.com/product/00845183001136",
+      "title": "Coffee Bean Direct Colombian Supremo, Whole Bean Coffee, Light Roast, 5 Pound Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 63.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/86UE7KoROy4z8aPBJ2rpIQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/412OqfvielL._SL500_.jpg"
+    },
+    {
+      "position": 8,
+      "product_id": "00845183001129",
+      "link": "https://shopping.yahoo.com/product/00845183001129",
+      "title": "Coffee Bean Direct Half-Caff Colombian, Whole Bean Coffee, Light Roast, 5 Pound Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 68.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/lEMstkHWzbwfrT7TU8MotQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41-AZwtm7qL._SL500_.jpg"
+    },
+    {
+      "position": 9,
+      "product_id": "00885130288807",
+      "link": "https://shopping.yahoo.com/product/00885130288807",
+      "title": "Coffee Bean Direct Italian Roast Espresso, Whole Bean Coffee, Dark Roast, 5 Pound Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 57.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/07POelZ2MOf3iIGMMR7VKw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41YkMTJZYYL._SL500_.jpg"
+    },
+    {
+      "position": 10,
+      "product_id": "00881448176218",
+      "link": "https://shopping.yahoo.com/product/00881448176218",
+      "title": "Coffee Bean Direct Dark Brazilian Santos, Whole Bean Coffee, Dark Roast, 5 Pound Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 61.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/5DS_L0Pebv1EM6VvGPr.Zg--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/411n09pzRoL._SL500_.jpg"
+    },
+    {
+      "position": 11,
+      "product_id": "amazon_B089WJLMDF",
+      "link": "https://shopping.yahoo.com/product/amazon_B089WJLMDF",
+      "title": "Coffee Beanery Michigan Cherry Swiss Water Process Decaf Flavored Coffee (Whole Bean) - 1 (12oz Bag) - Light-Medium Roast",
+      "seller": "Amazon",
+      "price": 16.95,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/la3hooLnFrtUsg7VtDtcNQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41RHGbGIAeL._SL500_.jpg"
+    },
+    {
+      "position": 12,
+      "product_id": "00198168522271",
+      "link": "https://shopping.yahoo.com/product/00198168522271",
+      "title": "Coffee to the Moo Nitro Cold Brew Coffee Concentrate, Mix Pack (KETO, Collagen & Mushroom Coffee), Instant Hot or Iced, Pocket/Purse Sized & Travel Friendly, No Refrigeration, 6 Cups",
+      "seller": "Amazon",
+      "price": 21.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/GNURSWbJPypOB5ICBDlORA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41Zl+S7fEcL._SL500_.jpg"
+    },
+    {
+      "position": 13,
+      "product_id": "00845183038385",
+      "link": "https://shopping.yahoo.com/product/00845183038385",
+      "title": "Coffee Bean Direct Decaf Penny Pincher's® Dark Roast Blend, Whole Bean Coffee, Dark Roast, 5 Pound Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 55.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/JZY1EdkvFXxL04kRwJQfXg--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/4147pGMK1oL._SL500_.jpg"
+    },
+    {
+      "position": 14,
+      "product_id": "amazon_B0CZZ145NX",
+      "link": "https://shopping.yahoo.com/product/amazon_B0CZZ145NX",
+      "title": "Chocolate Peanut Butter Cup Coffee by Coffee Beanery | 12oz Flavored Coffee Ground Medium Roast Coffee | 100% Specialty Arabica Coffee Ground | Gourmet Coffee | Flavored Fine Ground Coffee Medium Roast",
+      "seller": "Amazon",
+      "price": 15.95,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/81dU_lHzg3vgLRJy5AyCAg--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41FCkcMp8JL._SL500_.jpg"
+    },
+    {
+      "position": 15,
+      "product_id": "00199284925007",
+      "link": "https://shopping.yahoo.com/product/00199284925007",
+      "title": "Medium Roast Blackberry Cream Flavored Ground Coffee, Smooth Blend Infused with Juicy Ripe Blackberries & Rich Cream, Velvety Texture & Sweet, Fruity Flavor | A Truly Unique Coffee Experience",
+      "seller": "Amazon",
+      "price": 20,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/GUz_W0ji5iANzJ_19tZBuQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/5143nUk4gLL._SL500_.jpg"
+    },
+    {
+      "position": 16,
+      "product_id": "00720103512124",
+      "link": "https://shopping.yahoo.com/product/00720103512124",
+      "title": "Christmas Coffee Variety Gift Pack",
+      "seller": "Amazon",
+      "price": 15,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/18lDkBeTI06tWrP6zG9xsw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41MasNTZ17L._SL500_.jpg"
+    },
+    {
+      "position": 17,
+      "product_id": "amazon_B00Y3C1WOO",
+      "link": "https://shopping.yahoo.com/product/amazon_B00Y3C1WOO",
+      "title": "Michigan Cherry Flavored Coffee by Coffee Beanery | 12oz Specialty Medium Roast Whole Bean",
+      "seller": "Amazon",
+      "price": 15.95,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/RBVKW98uCSTlER2_fKEWpw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41rTfLEaDLL._SL500_.jpg"
+    },
+    {
+      "position": 18,
+      "product_id": "amazon_B09M59J4D8",
+      "link": "https://shopping.yahoo.com/product/amazon_B09M59J4D8",
+      "title": "Chocolate Fudge Brownie Flavored Coffee, Specialty Arabica Coffee, Medium Roast, 12 ounce, Automatic Drip (Ground)",
+      "seller": "Amazon",
+      "price": 15.95,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/yUpaoKjx8bz0F1HjGjaMrQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/313MO+XXm6L._SL500_.jpg"
+    },
+    {
+      "position": 19,
+      "product_id": "00722919710107",
+      "link": "https://shopping.yahoo.com/product/00722919710107",
+      "title": "Baronet Coffee Pods [100% Colombian Coffee -54 Pods] Single Cup Use for Senseo Coffee Machine - 3 Bags of 18 Single Serve 8 Gram Pods, Regular Strength Soft Coffee Pods, Medium Roast [100% Colombian]",
+      "seller": "Amazon",
+      "price": 29.5,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/mr78yFv5o7qYIu_jbllKbQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51Yf79lGz0L._SL500_.jpg"
+    },
+    {
+      "position": 20,
+      "product_id": "00860007453724",
+      "link": "https://shopping.yahoo.com/product/00860007453724",
+      "title": "Atlas Coffee Club World of Coffee Discovery Set - Gourmet Coffee Gift Sampler - 4-Pack Variety Box of the World’s Best Single Origin Coffees - Freshly Ground Coffee",
+      "seller": "Amazon",
+      "price": 39.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/ZW2tPBhhdRKYJ1OyvjF6sw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51W9dbpQqCL._SL500_.jpg"
+    },
+    {
+      "position": 21,
+      "product_id": "00022944197042",
+      "link": "https://shopping.yahoo.com/product/00022944197042",
+      "title": "Ground Coffee by BIGGBY COFFEE | Medium Roast BIGGBY BEST Flavor 12oz Bag | 30% Farm-Direct Nicaraguan and 70% Tanzania Peaberry Coffee Grounds Bagged in USA | Roasted Coffee Beans Perfect for: Coffee",
+      "seller": "Walmart",
+      "price": 14.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/ddOfh2wDGtWb5Z5E1dhBYQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://i5.walmartimages.com/asr/f7c5958a-596f-40cb-92e5-9d7c019b9576.b43ab215a724b7539d2e51e0fe7a3fb0.jpeg"
+    },
+    {
+      "position": 22,
+      "product_id": "00850033509014",
+      "link": "https://shopping.yahoo.com/product/00850033509014",
+      "title": "Driftaway Coffee Explorer Box, 5 Pack Coffee Tasting Kit - Single-Origin Beans from Around the World - 5 Fresh Roasts - Sustainable Sourcing, Small-Scale Farmers - Gourmet Coffee Variety Gift Set (Whole Bean, 2 Ounce (Pack of 5))",
+      "seller": "Amazon",
+      "price": 33,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/FkpCHUvBbqPdnV3JSYv6YA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/418ENCO5MEL._SL500_.jpg"
+    },
+    {
+      "position": 23,
+      "product_id": "amazon_B0FL1BXSKB",
+      "link": "https://shopping.yahoo.com/product/amazon_B0FL1BXSKB",
+      "title": "Wander Coffee Bourbon Pecan Pie Flavored Coffee – 1 LB Bag – Medium Roast 100% Arabica – Rich Bourbon & Toasted Pecan Flavor – Whole Bean or Ground – Dessert-Inspired Coffee In Either Regular Or Decaf",
+      "seller": "Amazon",
+      "price": 20,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/K2qGZp5B58227Ea_E7x6tw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41mElR2EdHL._SL500_.jpg"
+    },
+    {
+      "position": 24,
+      "product_id": "05971458951228",
+      "link": "https://shopping.yahoo.com/product/05971458951228",
+      "title": "Kauai Coffee Ground Coffee – Smooth, Rich, Medium Roast – Nutty Caramel and Tropical Coconut – Arabica Coffee, 10% Hawaiian with No Bitterness – Coconut Caramel Crunch, 1 Pack of 10oz",
+      "seller": "Amazon",
+      "price": 7.68,
+      "sale_price": 7.32,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/DrrFcPnFf3kKqay0sog3ZQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41OXxp2px-L._SL500_.jpg"
+    },
+    {
+      "position": 25,
+      "product_id": "amazon_B07TCBW3HS",
+      "link": "https://shopping.yahoo.com/product/amazon_B07TCBW3HS",
+      "title": "Bones Coffee Company Highland Grog, Butterscotch Caramel Flavored Coffee, Medium Roast Low Acid Arabica Beans Compatible with Auto drip and French Press Coffee Maker, 12 Oz Ground",
+      "seller": "Amazon",
+      "price": 19.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/244HQ1NykAavYpsru9mBuA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51tAQ5v5C2L._SL500_.jpg"
+    },
+    {
+      "position": 26,
+      "product_id": "00868975000254",
+      "link": "https://shopping.yahoo.com/product/00868975000254",
+      "title": "Mommee Coffee Half Caf Ground Low Acid Coffee - 100% Arabica Organic Coffee Beans with Smooth Caramel Flavor - Medium Grind for Drip, Reusable One Cup Filters - 11 oz",
+      "seller": "Amazon",
+      "price": 16.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/QBGpuIsnmL_KQ34uG2D9pg--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/417WmZCcHzL._SL500_.jpg"
+    },
+    {
+      "position": 27,
+      "product_id": "00746241389121",
+      "link": "https://shopping.yahoo.com/product/00746241389121",
+      "title": "Bones Coffee Company Sinn-O-Bunn, Cinnamon Roll Flavored Coffee, Medium Roast Low Acid Arabica Beans Compatible with Auto drip and French Press Coffee Maker, 12 Oz Ground",
+      "seller": "Amazon",
+      "price": 19.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/5XULm0NPsCk6wWEqzjzu6Q--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/5193gDb70-L._SL500_.jpg"
+    },
+    {
+      "position": 28,
+      "product_id": "00782605163563",
+      "link": "https://shopping.yahoo.com/product/00782605163563",
+      "title": "Kauai Coffee K-Cup Pods for Keurig Brewers – Arabica Coffee, 10% Hawaiian – Medium Roast, Bright Aroma With Light Floral Notes – Garden Isle, 1 Pack of 22 Single Serve K-Cups",
+      "seller": "Amazon",
+      "price": 18.37,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/UmD8ccj44u.u4t2G4tzqoA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51yqIsdE1dL._SL500_.jpg"
+    },
+    {
+      "position": 29,
+      "product_id": "00782605163747",
+      "link": "https://shopping.yahoo.com/product/00782605163747",
+      "title": "Kauai Coffee K-Cup Pods for Keurig Brewers – Arabica Coffee, 10% Hawaiian – Medium Roast, Vanilla Beans with Toasted Macabamia Nuts – Vanilla Macadamia Nut, 1 Pack of 22 Single Serve K-Cups",
+      "seller": "Amazon",
+      "price": 17.02,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/Jgi1GbWhByJtrfVZZRMuzw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51K80VvEdTL._SL500_.jpg"
+    },
+    {
+      "position": 30,
+      "product_id": "00850020934003",
+      "link": "https://shopping.yahoo.com/product/00850020934003",
+      "title": "Onyx Coffee Lab Monarch Whole Bean Espresso Coffee Blend – Medium Dark Roasted Coffee Beans Whole – Coffee Whole Beans w/Notes of Dark Chocolate & More",
+      "seller": "Amazon",
+      "price": 21.5,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/je2LqvQ9veARG3cLgwBPMw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/31sVFNwGOiL._SL500_.jpg"
+    },
+    {
+      "position": 31,
+      "product_id": "00198715182453",
+      "link": "https://shopping.yahoo.com/product/00198715182453",
+      "title": "Luisa Coffee Rahue River Decaffeinated whlole beans coffee, 12 oz / 340 gr,. Specialty Coffee (pack of 1) Medium roast. Tasting notes: cocoa, brown sugar, bold texture.",
+      "seller": "Amazon",
+      "price": 19.9,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/YtLcvw7t1mrBCYSH_HBaIQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51lr2sxE3IL._SL500_.jpg"
+    },
+    {
+      "position": 32,
+      "product_id": "amazon_B0CYVF8FMC",
+      "link": "https://shopping.yahoo.com/product/amazon_B0CYVF8FMC",
+      "title": "SUPER COFFEE Espresso, Iced Keto Coffee (0g Added Sugar, 10 Calories) [Triple Shot Black] 11 Fl Oz, 12 Pack | Cold Brew, Smart Coffee Drinks - SoyFree GlutenFree",
+      "seller": "Amazon",
+      "price": 30.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/8gQG1cdnOuUO23qUImYKgQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41cVGbon-SL._SL500_.jpg"
+    },
+    {
+      "position": 33,
+      "product_id": "00850038442019",
+      "link": "https://shopping.yahoo.com/product/00850038442019",
+      "title": "Nguyen Coffee Supply - Hanoi Robusta: Dark Roast Premium Ground Coffee Beans, Vietnamese Single Origin, Direct Trade, Low Acid with High Caffeine Content, Roasted in Brooklyn [12 oz Bag]",
+      "seller": "Amazon",
+      "price": 19.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/tT3fjmY7BCjdVmCC5YV64A--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/416VY9ZF2cL._SL500_.jpg"
+    },
+    {
+      "position": 34,
+      "product_id": "00785571474329",
+      "link": "https://shopping.yahoo.com/product/00785571474329",
+      "title": "Javy Coffee Javy Cold Brew Coffee Concentrate, Mocha flavored Iced & Cold Brew Coffee, Hot Coffee Beverage, 100% Med.Roast Arabica, Unsweetened & Suga",
+      "seller": "Macy's",
+      "price": 25.07,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/pnRV9Kiojkp99rTRi9PRyg--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://slimages.macysassets.com/is/image/MCY/products/8/optimized/27370608_fpx.tif?wid=1200&fmt=jpeg&qlt=100.cf.jpg"
+    },
+    {
+      "position": 35,
+      "product_id": "00785571474251",
+      "link": "https://shopping.yahoo.com/product/00785571474251",
+      "title": "Javy Coffee Javy Cold Brew Coffee Concentrate, Iced & Cold Brew Coffee, Hot Coffee Beverage, 100% Med.Roast Arabica, Unsweetened & Sugar-Free (Decaf)",
+      "seller": "Macy's",
+      "price": 25.07,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/XbTHoYBTZgMjRH1kdSRqpA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://slimages.macysassets.com/is/image/MCY/products/4/optimized/27370604_fpx.tif?wid=1200&fmt=jpeg&qlt=100.cf.jpg"
+    },
+    {
+      "position": 36,
+      "product_id": "00782605163785",
+      "link": "https://shopping.yahoo.com/product/00782605163785",
+      "title": "Kauai Coffee K-Cup Pods for Keurig Brewers – Arabica Coffee, 10% Hawaiian – Medium Roast, Banana Flavor with Creamy Vanilla – Banana Crème, 1 Pack of 48 Single Serve K-Cups",
+      "seller": "Amazon",
+      "price": 44.8,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/tzklsKxCYmxZ2ZhWpYl8DA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51ntjyrePPL._SL500_.jpg"
+    },
+    {
+      "position": 37,
+      "product_id": "00850005169253",
+      "link": "https://shopping.yahoo.com/product/00850005169253",
+      "title": "Purity Coffee EASE Dark Roast Ground Coffee for Low Acidity - USDA Organic and Third-Party Tested for Antioxidants, Mold, Mycotoxins and Pesticides - 12oz (Purity Ease, dark_roast) | Ground| EASE",
+      "seller": "Amazon",
+      "price": 29,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/Vboc_Lig.ukiOrRnN5w3Qw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/413gXnqkZAL._SL500_.jpg"
+    },
+    {
+      "position": 38,
+      "product_id": "00722919191210",
+      "link": "https://shopping.yahoo.com/product/00722919191210",
+      "title": "Baronet Coffee Pods [Butter Pecan-54 Pods] Flavored Single Cup Use, Like Senseo [3 Boxes of 18 Single Serve 10 Gram] Regular Strength, Medium Roast [Butter Pecan]",
+      "seller": "Amazon",
+      "price": 29.95,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/HsRs4qCOT.owodDETpxWuQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51DchNJu39L._SL500_.jpg"
+    },
+    {
+      "position": 39,
+      "product_id": "00867479000227",
+      "link": "https://shopping.yahoo.com/product/00867479000227",
+      "title": "Clean Coffee Co. - Low Acid Dark Roast, Tested for Molds and Toxins, Honduras Blend, Notes of Caramel, Dark Chocolate, and Toasted Malts (Whole Bean, 12 oz Bag)",
+      "seller": "Amazon",
+      "price": 21.98,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/S1Wjzj1LZcV9W4EUXqkrIA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41CwHdL+KjL._SL500_.jpg"
+    },
+    {
+      "position": 40,
+      "product_id": "00035700020959",
+      "link": "https://shopping.yahoo.com/product/00035700020959",
+      "title": "Community Coffee Coffee and Chicory Blend 16 Ounce, Medium Dark Roast Ground Coffee, Vacuum Sealed16 Ounce Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 13.37,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/lehSa2bo1MOZKcj176F.Vw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41IOEeecMWL._SL500_.jpg"
+    },
+    {
+      "position": 41,
+      "product_id": "00850028958087",
+      "link": "https://shopping.yahoo.com/product/00850028958087",
+      "title": "STRONG COFFEE COMPANY, Instant Hazelnut Latte - 12 Single Serving Packs, 15g Protein, Instant Protein Coffee with Collagen, Adaptogens & Nootropics, No Crash, No Jitters",
+      "seller": "Amazon",
+      "price": 37,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/VDUw484eyywpMiU5xXFBDw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41wt8pWpDNL._SL500_.jpg"
+    },
+    {
+      "position": 42,
+      "product_id": "00191742046842",
+      "link": "https://shopping.yahoo.com/product/00191742046842",
+      "title": "Catholic Coffee St. Patrick | Irish Cream Flavored Medium Roast Ground Coffee – Semi-Sweet Chocolate Notes | 12oz Bag – Catholic Gift with a Taste of Ireland",
+      "seller": "Amazon",
+      "price": 18.95,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/QPSHOoXNxo7pmUMuiMlf9Q--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41DyU5c4yIL._SL500_.jpg"
+    },
+    {
+      "position": 43,
+      "product_id": "00180626000162",
+      "link": "https://shopping.yahoo.com/product/00180626000162",
+      "title": "Stumptown Coffee Roasters, Medium Roast Organic Whole Bean Coffee - Holler Mountain 12 Ounce Bag with Flavor Notes of Citrus Zest, Caramel and Hazelnut",
+      "seller": "Amazon",
+      "price": 15.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/qEs2lzILMEi1_TLfl.LBeA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41iLS6UnGIL._SL500_.jpg"
+    },
+    {
+      "position": 44,
+      "product_id": "impact_radius_7412-554973501172",
+      "link": "https://shopping.yahoo.com/product/impact_radius_7412-554973501172",
+      "title": "Coffee and Chicory Coffee Pods for Keurig K-cups",
+      "seller": "Instacart",
+      "price": 26.99,
+      "sale_price": 16.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/Ob_K7xpTW2qscjm0SYnIqw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://d2lnr5mha7bycj.cloudfront.net/product-image/file/primary_09722067-6ecc-4ccb-87fe-e9bdbf6ba915.png.cf.jpg"
+    },
+    {
+      "position": 45,
+      "product_id": "00722919191241",
+      "link": "https://shopping.yahoo.com/product/00722919191241",
+      "title": "Baronet Coffee Pods [Breakfast Blend-54 Pods] Single Cup Use, Like Senseo [3 Boxes of 18 Single Serve 10 Gram] Regular Strength, Light Roast [Breakfast Blend]",
+      "seller": "Amazon",
+      "price": 29.95,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/c8RW8ff7oXogP18gHM2x_A--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51wbuwI0ygL._SL500_.jpg"
+    },
+    {
+      "position": 46,
+      "product_id": "00751228577057",
+      "link": "https://shopping.yahoo.com/product/00751228577057",
+      "title": "Organic Coffee Co. DECAF Hurricane Espresso Whole Bean Coffee 2LB (32 Ounce) Medium Dark Roast Natural Water Processed Decaffeinated USDA Organic",
+      "seller": "Amazon",
+      "price": 29.99,
+      "sale_price": 27.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/NdiJWKOdLlPeDqGU1XXQPg--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/511ymNo4MLL._SL500_.jpg"
+    },
+    {
+      "position": 47,
+      "product_id": "08938557481039",
+      "link": "https://shopping.yahoo.com/product/08938557481039",
+      "title": "Hannah Coffee Energy 3-in-1 Instant Black Coffee Mix with Ginseng and Vitamin E, 20 Sachets, 10.5 oz",
+      "seller": "Amazon",
+      "price": 21.75,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/Bk9YarxulIgjEk5uoDWSTg--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41fQnx80dDL._SL500_.jpg"
+    },
+    {
+      "position": 48,
+      "product_id": "amazon_B0DRKWCR7Y",
+      "link": "https://shopping.yahoo.com/product/amazon_B0DRKWCR7Y",
+      "title": "Joe Coffee Company - The Amsterdam Whole Bean Specialty Coffee, 2 lb Bag | NYC Roaster, Rainforest Alliance Certified, Kosher, Climate-Friendly",
+      "seller": "Amazon",
+      "price": 41.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/Iu4JqWOb7gdyuN.kkfKMIw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/419lRKHC05L._SL500_.jpg"
+    },
+    {
+      "position": 49,
+      "product_id": "00850029731870",
+      "link": "https://shopping.yahoo.com/product/00850029731870",
+      "title": "Independence Coffee Co. Indie Cold Brew Coffee Concentrate, Jet Fuel Intense and Heavy Body, Dark Roast, 32 Fluid Ounce Bottle",
+      "seller": "Amazon",
+      "price": 17.24,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/r18e1Fc86D2mx0v47Fv2Ng--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/31GfpI21VxL._SL500_.jpg"
+    },
+    {
+      "position": 50,
+      "product_id": "00722919225144",
+      "link": "https://shopping.yahoo.com/product/00722919225144",
+      "title": "Baronet Coffee Organic ESE Espresso Pods - Espresso Roast , 7.2 Grams - Individually Wrapped for Freshness - Rich, Traditional Flavor - 18 Count (Pack of 3)",
+      "seller": "Amazon",
+      "price": 31.19,
+      "sale_price": 28.5,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/A2xCYA3WHehsyTBNOqVgrA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51lE+hDDaXL._SL500_.jpg"
+    },
+    {
+      "position": 51,
+      "product_id": "amazon_B0FL1YPL5C",
+      "link": "https://shopping.yahoo.com/product/amazon_B0FL1YPL5C",
+      "title": "Coffee Concentrate - Cold Brew Coffee, Perfect for Hot or Iced Instant Coffees, Hot Drinks, Cold Brew Concentrate",
+      "seller": "Amazon",
+      "price": 49.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/XnGWORS_plcR1VGIQBP0dA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/31+iZAnx50L._SL500_.jpg"
+    },
+    {
+      "position": 52,
+      "product_id": "00035700076918",
+      "link": "https://shopping.yahoo.com/product/00035700076918",
+      "title": "Community Coffee Mardi Gras King Cake Flavored 32 Ounces, Medium Roast Ground Coffee, 32 Ounce Bag (Pack of 1)",
+      "seller": "Amazon",
+      "price": 16.98,
+      "sale_price": 15.57,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/v0Rhc4voxl_M5ok8FUC4ZQ--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/417mjx5O9aL._SL500_.jpg"
+    },
+    {
+      "position": 53,
+      "product_id": "impact_radius_7412-3131932149",
+      "link": "https://shopping.yahoo.com/product/impact_radius_7412-3131932149",
+      "title": "Coffee, Ground, Medium Roast, Mushrooms",
+      "seller": "Instacart",
+      "price": 22.69,
+      "sale_price": 16.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/MCS8o7c1HySzJF.2ShKVrA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://d2lnr5mha7bycj.cloudfront.net/product-image/file/primary_ac726196-ead9-4ac1-a170-3bd59126a72f.png.cf.jpg"
+    },
+    {
+      "position": 54,
+      "product_id": "00634855224450",
+      "link": "https://shopping.yahoo.com/product/00634855224450",
+      "title": "Avy Coffee - Brazil Pearl - Dark Roast - Whole Bean & Ground - Bold & Nutty Flavor (16 Ounce (Pack of 1), Ground Coffee)",
+      "seller": "Amazon",
+      "price": 14.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/5eRWHSAEs4ZU2YZ6usI97A--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/41ERRZasKNL._SL500_.jpg"
+    },
+    {
+      "position": 55,
+      "product_id": "commission_junction_5206455-JRFE1007",
+      "link": "https://shopping.yahoo.com/product/commission_junction_5206455-JRFE1007",
+      "title": "Coffee Pods Variety Pack Perfect Samplers",
+      "seller": "Wayfair",
+      "price": 25.94,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/mQqqT3UmytFvL2q9VitsYA--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://secure.img1-fg.wfcdn.com/im/22782244/resize-h400-w400%5Ecompr-r85/1413/141332175/.jpg"
+    },
+    {
+      "position": 56,
+      "product_id": "commission_junction_4909784-476fd3d3-f62b-4d25-8c68-199a4288c5a2",
+      "link": "https://shopping.yahoo.com/product/commission_junction_4909784-476fd3d3-f62b-4d25-8c68-199a4288c5a2",
+      "title": "Coffee Pods",
+      "seller": "Woot",
+      "price": 47.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/TQpqyXC.Nc2ZC_ROBrDK9A--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://d3gqasl9vmjfd8.cloudfront.net/acc4f3df-e86f-4372-a34f-cbaeeae9a2d5.png.cf.jpg"
+    },
+    {
+      "position": 57,
+      "product_id": "00079975256507",
+      "link": "https://shopping.yahoo.com/product/00079975256507",
+      "title": "Lion Coffee Medium Roast Coffee Pods for Keurig Coffee Maker, Swiss Water Decaf, 12 Count",
+      "seller": "Walmart",
+      "price": 17.95,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/9Hvf_if2LexOZ8FovPzevw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://i5.walmartimages.com/asr/e64edd79-0066-4c64-b0e7-77831b4e565d.ab3e5c5e0c37bd89a0986711464fb160.jpeg"
+    },
+    {
+      "position": 58,
+      "product_id": "amazon_B0D3J5RZR5",
+      "link": "https://shopping.yahoo.com/product/amazon_B0D3J5RZR5",
+      "title": "Community Coffee Cafe Special Decaf Blend Instant Coffee, Medium-Dark Roast, 7 oz Jar (Pack of 4)",
+      "seller": "Amazon",
+      "price": 43.6,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/Hb0N.yazA7ql66dlfsglog--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51fq2BAWa+L._SL500_.jpg"
+    },
+    {
+      "position": 59,
+      "product_id": "amazon_B094Q61Q37",
+      "link": "https://shopping.yahoo.com/product/amazon_B094Q61Q37",
+      "title": "KALAMAZOO COFFEE COMPANY Whole Bean Flavored Coffee Variety Pack - Hazelnut, French Vanilla, & Maple Walnut | 12oz Bag (3 Pack)",
+      "seller": "Amazon",
+      "price": 41.99,
+      "thumbnail": "https://s.yimg.com/lo/api/res/1.2/jiLwsTomrtgXBBD0MfIOdw--/YXBwaWQ9ZWNfaG9yaXpvbnRhbDtoPTQwMDtzcz0xO3c9NDAw/https://m.media-amazon.com/images/I/51v5bBesgnS._SL500_.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "key": "stores",
+      "values": [
+        {
+          "id": "3cf3c2e4-90aa-4398-a970-83eb69413f9b",
+          "name": "Wayfair"
+        },
+        {
+          "id": "66ea567a-c987-4c2e-a2ff-02904efde6ea",
+          "name": "Amazon"
+        },
+        {
+          "id": "3719d8d4-5edd-4817-998a-91f3229e7323",
+          "name": "Walmart"
+        },
+        {
+          "id": "346ae41c-5265-49ce-a119-79bad16046d5",
+          "name": "The Home Depot"
+        },
+        {
+          "id": "8bcb408b-26bf-4ed1-b788-e3719aeef347",
+          "name": "Woot"
+        },
+        {
+          "id": "a389a078-ec53-46e0-aba5-e6c427158ba1",
+          "name": "PERIGOLD"
+        },
+        {
+          "id": "8586d244-d8ab-4b89-a831-a91c055ca969",
+          "name": "Macy's"
+        },
+        {
+          "id": "b45048c6-ab27-415b-81c5-ebde4a2223e8",
+          "name": "Temu"
+        },
+        {
+          "id": "ba84e34b-21a4-4d54-b349-5490609c35f4",
+          "name": "Lowe's"
+        },
+        {
+          "id": "827d7835-78d6-4491-ae04-c042cab1d6e7",
+          "name": "Target"
+        },
+        {
+          "id": "8cbac307-2a8b-42da-b89d-33668691f081",
+          "name": "Zappos"
+        },
+        {
+          "id": "5a05949c-291b-41a7-89ad-2bdb651c2be7",
+          "name": "Nordstrom"
+        },
+        {
+          "id": "f4acea47-5fae-4687-bea9-e4fb26289f40",
+          "name": "Belk"
+        },
+        {
+          "id": "5e0bed65-d2f8-4b34-9b8f-955218c0e37a",
+          "name": "Best Buy"
+        },
+        {
+          "id": "0a81478b-50c1-4b09-8e88-0503c427b4f5",
+          "name": "AllModern"
+        },
+        {
+          "id": "90554931-bef3-4d7c-94c7-b676537a17b4",
+          "name": "Joss & Main"
+        },
+        {
+          "id": "a0f1757c-7217-4473-b798-8ae9a86035a1",
+          "name": "DSW Designer Shoe Warehouse"
+        },
+        {
+          "id": "a5a23314-fdb7-42b4-9f85-b776d975818a",
+          "name": "Fanatics"
+        },
+        {
+          "id": "9367e0ec-8c12-4cca-86d2-69294dd93cc5",
+          "name": "Birch Lane"
+        },
+        {
+          "id": "52c6d844-f57b-4991-a371-ba0f9bd78525",
+          "name": "JCPenney"
+        },
+        {
+          "id": "82ea8520-c2dc-4e1e-a32f-2151ef28052c",
+          "name": "QVC"
+        },
+        {
+          "id": "d62461ed-4beb-4e8d-83f1-a46f6d77bcd3",
+          "name": "DICK'S Sporting Goods"
+        },
+        {
+          "id": "e0839e9c-5257-41c1-ae85-4fdc4f3cd7ac",
+          "name": "Nordstrom Rack"
+        },
+        {
+          "id": "c8e09237-09ef-445b-a289-61a6379dda8a",
+          "name": "Costway"
+        },
+        {
+          "id": "02537b82-e98b-4785-8958-05ff47a45d99",
+          "name": "HSN"
+        },
+        {
+          "id": "7771a1cf-bad4-46ad-95a0-cd3b2d62018c",
+          "name": "CVS Pharmacy"
+        },
+        {
+          "id": "3d78b7f8-6140-48e5-ab6d-31db5de9c04f",
+          "name": "L.L.Bean"
+        },
+        {
+          "id": "5472383a-7bc7-47d6-8e6a-3bdcbaf46c89",
+          "name": "Instacart"
+        },
+        {
+          "id": "e6407e85-ed94-4343-b29f-e404f3e49cfa",
+          "name": "Backcountry"
+        },
+        {
+          "id": "7e3d689f-63e6-4ad9-8ea0-15b6615a3c86",
+          "name": "Groupon"
+        },
+        {
+          "id": "c4bea452-731c-4483-aa8b-a031d4158358",
+          "name": "Redbubble"
+        },
+        {
+          "id": "d5f8adda-67ca-479a-b4f0-81782c7bbe8c",
+          "name": "Sam's Club"
+        },
+        {
+          "id": "9c431828-c2cf-402b-a23c-df7fba43d348",
+          "name": "Disney Store"
+        },
+        {
+          "id": "b2283023-a5f6-4aa4-80e2-aa6503c518e0",
+          "name": "Sur La Table"
+        },
+        {
+          "id": "1c2ad400-22bc-48ca-b769-b7dee39fe96a",
+          "name": "Anthropologie"
+        },
+        {
+          "id": "81853b3c-716a-45be-ada8-3d3e4e522875",
+          "name": "Ace Hardware"
+        },
+        {
+          "id": "0593d14e-7242-4c0a-8347-bb9637a429b0",
+          "name": "Walgreens"
+        },
+        {
+          "id": "e8225a47-7a9e-4e44-82a7-456d1ca458c9",
+          "name": "Ulta Beauty"
+        },
+        {
+          "id": "950a009f-8ee2-48f7-bea9-15e844b4468b",
+          "name": "Chewy"
+        },
+        {
+          "id": "01269788-8f42-47eb-87ba-69902687e6af",
+          "name": "Joybird"
+        },
+        {
+          "id": "19ef72f8-e97c-4400-93c3-e91368176825",
+          "name": "Destination XL"
+        },
+        {
+          "id": "a469010c-daf8-4253-9f11-de62acc66c5a",
+          "name": "REI"
+        },
+        {
+          "id": "9b2879b8-f73d-4cf9-a8a2-7ed2a803261a",
+          "name": "Talbots"
+        },
+        {
+          "id": "46c8328a-013a-4271-97f3-b2976610b690",
+          "name": "Madewell"
+        },
+        {
+          "id": "3106cef8-f270-4de2-bc1a-81ab950fd800",
+          "name": "maurices"
+        },
+        {
+          "id": "c31d0b79-5a36-46be-96a1-7e1d45645c02",
+          "name": "Sephora"
+        },
+        {
+          "id": "25fa08b9-c40d-4b97-bf3b-d86ebdca98a4",
+          "name": "Udemy"
+        },
+        {
+          "id": "8970344d-3904-4c3b-ba6f-f089b6f2eac9",
+          "name": "Petco"
+        },
+        {
+          "id": "b7c5c41e-7b82-4a30-a304-723858d005ca",
+          "name": "American Eagle"
+        },
+        {
+          "id": "30af95d4-38b3-4fa7-a2fe-e0df2386b8e5",
+          "name": "T.J.Maxx"
+        }
+      ]
+    },
+    {
+      "key": "categories",
+      "values": [
+        {
+          "id": "436",
+          "name": "Furniture"
+        },
+        {
+          "id": "536",
+          "name": "Home & Garden"
+        },
+        {
+          "id": "166",
+          "name": "Apparel & Accessories"
+        },
+        {
+          "id": "412",
+          "name": "Food & Beverages"
+        },
+        {
+          "id": "632",
+          "name": "Hardware"
+        },
+        {
+          "id": "922",
+          "name": "Office Supplies"
+        },
+        {
+          "id": "8",
+          "name": "Arts & Entertainment"
+        },
+        {
+          "id": "469",
+          "name": "Health & Beauty"
+        },
+        {
+          "id": "111",
+          "name": "Business & Industrial"
+        },
+        {
+          "id": "1",
+          "name": "Animals & Pet Supplies"
+        },
+        {
+          "id": "1239",
+          "name": "Toys & Games"
+        },
+        {
+          "id": "222",
+          "name": "Electronics"
+        },
+        {
+          "id": "888",
+          "name": "Vehicles & Parts"
+        },
+        {
+          "id": "988",
+          "name": "Sporting Goods"
+        },
+        {
+          "id": "5181",
+          "name": "Luggage & Bags"
+        },
+        {
+          "id": "537",
+          "name": "Baby & Toddler"
+        },
+        {
+          "id": "606000",
+          "name": "Local Services"
+        },
+        {
+          "id": "2092",
+          "name": "Software"
+        },
+        {
+          "id": "5605",
+          "name": "Religious & Ceremonial"
+        },
+        {
+          "id": "603000",
+          "name": "Food & Drink"
+        },
+        {
+          "id": "141",
+          "name": "Cameras & Optics"
+        },
+        {
+          "id": "783",
+          "name": "Media"
+        },
+        {
+          "id": "608000",
+          "name": "Subscriptions"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?device=desktop&engine=yahoo_shopping&limit=60&p=coffee&start=60",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=yahoo_shopping&limit=60&p=coffee&start=60",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=yahoo_shopping&limit=60&p=coffee&start=120",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=yahoo_shopping&limit=60&p=coffee&start=180",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=yahoo_shopping&limit=60&p=coffee&start=240"
+    }
+  }
+}

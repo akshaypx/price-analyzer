@@ -1,0 +1,1760 @@
+{
+  "search_metadata": {
+    "id": "6894807dc83b3f7d4f94c666",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f98de1f90e7e19c4/6894807dc83b3f7d4f94c666.json",
+    "created_at": "2025-08-07 10:31:25 UTC",
+    "processed_at": "2025-08-07 10:31:25 UTC",
+    "ebay_url": "https://www.ebay.com/sch/i.html?_nkw=coffee",
+    "raw_html_file": "https://serpapi.com/searches/f98de1f90e7e19c4/6894807dc83b3f7d4f94c666.html",
+    "total_time_taken": 5.54
+  },
+  "search_parameters": {
+    "engine": "ebay",
+    "_nkw": "coffee"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1100000,
+    "query_displayed": "coffee"
+  },
+  "categories": [
+    {
+      "name": "All"
+    },
+    {
+      "id": 20625,
+      "name": "Kitchen, Dining & Bar"
+    },
+    {
+      "id": 14308,
+      "name": "Food & Beverages"
+    },
+    {
+      "id": 3197,
+      "name": "Furniture"
+    },
+    {
+      "id": 10033,
+      "name": "Home Décor"
+    },
+    {
+      "id": 159912,
+      "name": "Yard, Garden & Outdoor Living"
+    },
+    {
+      "id": 176988,
+      "name": "Kids & Teens at Home"
+    },
+    {
+      "id": 159907,
+      "name": "Home Improvement"
+    },
+    {
+      "id": 63514,
+      "name": "Window Treatments & Hardware"
+    },
+    {
+      "id": 20444,
+      "name": "Bedding"
+    },
+    {
+      "id": 20571,
+      "name": "Rugs & Carpets"
+    },
+    {
+      "id": 262975,
+      "name": "Candles & Home Fragrance"
+    },
+    {
+      "id": 31605,
+      "name": "Wholesale Lots"
+    },
+    {
+      "id": 16086,
+      "name": "Greeting Cards & Party Supply"
+    },
+    {
+      "id": 299,
+      "name": "Household Supplies & Cleaning"
+    },
+    {
+      "id": 181076,
+      "name": "Other Home & Garden"
+    },
+    {
+      "id": 20563,
+      "name": "Pillows"
+    },
+    {
+      "id": 20697,
+      "name": "Lamps, Lighting & Ceiling Fans"
+    },
+    {
+      "id": 26677,
+      "name": "Bath"
+    },
+    {
+      "id": 170090,
+      "name": "Holiday & Seasonal Décor"
+    },
+    {
+      "id": 11827,
+      "name": "Wedding Supplies"
+    },
+    {
+      "id": 631,
+      "name": "Tools & Workshop Equipment"
+    },
+    {
+      "id": 20710,
+      "name": "Major Appliances"
+    },
+    {
+      "id": 177073,
+      "name": "Kitchen Fixtures"
+    },
+    {
+      "id": 16092,
+      "name": "School Supplies"
+    },
+    {
+      "id": 1,
+      "name": "Collectibles"
+    },
+    {
+      "id": 11450,
+      "name": "Clothing, Shoes & Accessories"
+    },
+    {
+      "id": 870,
+      "name": "Pottery & Glass"
+    },
+    {
+      "id": 6000,
+      "name": "eBay Motors"
+    },
+    {
+      "id": 15032,
+      "name": "Cell Phones & Accessories"
+    },
+    {
+      "id": 281,
+      "name": "Jewelry & Watches"
+    },
+    {
+      "id": 14339,
+      "name": "Crafts"
+    },
+    {
+      "id": 26395,
+      "name": "Health & Beauty"
+    },
+    {
+      "id": 12576,
+      "name": "Business & Industrial"
+    },
+    {
+      "id": 20081,
+      "name": "Antiques"
+    },
+    {
+      "id": 267,
+      "name": "Books & Magazines"
+    },
+    {
+      "id": 550,
+      "name": "Art"
+    },
+    {
+      "id": 64482,
+      "name": "Sports Mem, Cards & Fan Shop"
+    },
+    {
+      "id": 888,
+      "name": "Sporting Goods"
+    },
+    {
+      "id": 220,
+      "name": "Toys & Hobbies"
+    },
+    {
+      "id": 237,
+      "name": "Dolls & Bears"
+    },
+    {
+      "id": 58058,
+      "name": "Computers/Tablets & Networking"
+    },
+    {
+      "id": 1281,
+      "name": "Pet Supplies"
+    },
+    {
+      "id": 45100,
+      "name": "Entertainment Memorabilia"
+    },
+    {
+      "id": 11233,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Everything Else"
+    },
+    {
+      "id": 625,
+      "name": "Cameras & Photo"
+    },
+    {
+      "id": 2984,
+      "name": "Baby"
+    },
+    {
+      "id": 3252,
+      "name": "Travel"
+    },
+    {
+      "id": 619,
+      "name": "Musical Instruments & Gear"
+    },
+    {
+      "id": 11116,
+      "name": "Coins & Paper Money"
+    },
+    {
+      "id": 293,
+      "name": "Consumer Electronics"
+    },
+    {
+      "id": 1249,
+      "name": "Video Games & Consoles"
+    },
+    {
+      "id": 11232,
+      "name": "Movies & TV"
+    },
+    {
+      "id": 260,
+      "name": "Stamps"
+    },
+    {
+      "id": 172008,
+      "name": "Gift Cards & Coupons"
+    },
+    {
+      "id": 316,
+      "name": "Specialty Services"
+    }
+  ],
+  "organic_results": [
+    {
+      "sponsored": true,
+      "title": "4 Pack Ryze Organic Mushroom Coffee W* 1 RYZE Spoon 100% Authentic FREE SHIPPING",
+      "link": "https://www.ebay.com/itm/167662257906?_skw=coffee&itmmeta=01K221BW0HFX1MRTM68MQP7EG1&hash=item27097306f2:g:8n4AAOSw2Alno--C&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1fPNGnKEmHu0cNyqy8DvrxhuLwxNbb5SqToytAtKcwAbd4AIUct1l8%2Bz5ouf4%2BIHiycxVmxF8YDJIW4YZPxsNeUgD3zWg3RLfgCbEI2G5NBCN9vUVsC4IcyGPHiMBGpOnd%2Bektt0RDre9RPSXlEN5WRbarcPMCehJOfl6Kik4iMOs0uCPAsDJOEYSQekDmg4%2FdXpXlR2PRt4M1%2FXv65vKefNex1a0gCeKkrGf0a02YuBg%3D%3D%7Ctkp%3ABlBMUODAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$19.56",
+        "extracted": 19.56
+      },
+      "old_price": {
+        "raw": "$42.56",
+        "extracted": 42.56,
+        "discount": "54% off"
+      },
+      "shipping": "Free delivery",
+      "location": "Located in Hong Kong",
+      "thumbnail": "https://i.ebayimg.com/images/g/8n4AAOSw2Alno--C/s-l500.jpg",
+      "seller": {
+        "username": "fgjhjhgj",
+        "reviews": 0,
+        "positive_feedback_in_percentage": 0
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2 lb MOCHA JAVA Blend, Whole Bean, Coffee Fresh Roasted Daily, Medium + Roast",
+      "subtitle": "FRESH & DELICIOUS MOCHA JAVA WHOLE BEAN COFFEE",
+      "link": "https://www.ebay.com/itm/166995530009?_skw=coffee&itmmeta=01K221BW0H9460QHF090WTMFA3&hash=item26e1b59119:g:qbwAAOSwCtpmt0pv&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1eYf%2BzNE5gIREQKdh1DFzFrEWK34nCCB%2F8k7WV1hDVC5eKdaQC%2BdrQG407H82ec%2FwSsx5RV9xzB%2FN7FQrPqU5U1tEDl0E7mx%2BmriAJnzXAEeU6EDwgdrSnfBVxTbF9PUYvYt98HsnB%2FP1kJa8GCthUOq69oozS0l8vOi0IMRhKclzkz0adzGVXJp7h%2F8rqLeJGOXwQG616%2BQuwcNzYBePLDuA%2FK%2BWoGHDxcxuxtJ8fNJQ%3D%3D%7Ctkp%3ABlBMUODAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$25.83",
+        "extracted": 25.83
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "209 sold",
+      "extracted_quantity_sold": 209,
+      "thumbnail": "https://i.ebayimg.com/images/g/qbwAAOSwCtpmt0pv/s-l500.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "5 LB COLOMBIA COLOMBIAN EXCELSO UNROASTED GREEN COFFEE BEANS - ARABICA",
+      "link": "https://www.ebay.com/itm/153550603235?_skw=coffee&itmmeta=01K221BW0HYKNER3EZ1BCC03ZP&hash=item23c05443e3:g:Mg0AAOSwsgFdFRb3&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1cnK9x9PtEuBYbE%2B1taLYYEhIX1NLbZ1dcu5m0DTq3MzKXDzhhn7%2FNN%2F2oQhyHaryG1Kd7Ui4HD7T8zZ6IY6jvVsPi30ZoW1kd3UKuApPvKyzTD5u0x09y6CqVGRN1OSLgcjG91RTcy0k9F%2FQwlZaGpHIKcbjeufXlSAg88zpjQ1kyrMi%2F9jNnNkd7fH19jb8HHsAXFAhLsB7sCQ3gtpyvw%2BZoHZInYo8rAVxMTZcs%2FnQ%3D%3D%7Ctkp%3ABlBMUODAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$35.99",
+        "extracted": 35.99
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "2,452 sold",
+      "extracted_quantity_sold": 2452,
+      "thumbnail": "https://i.ebayimg.com/images/g/Mg0AAOSwsgFdFRb3/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Custom Roasted Coffee - Tepatalaxco, Veracruz, Mexico - Roast to Order",
+      "link": "https://www.ebay.com/itm/226684886151?_skw=coffee&var=525903926683&itmmeta=01K221BW0HMD9575GEXA0Y4TVQ&hash=item34c778dc87:g:fGQAAOSwfqBnMRIw&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1ed8DIU30Z4jcnllONtW0L2nWTKpC2HoRYo7RJ4wRAHLPk%2BRVoHeHhma5RtKI3o3LzPAhZ9dQhJTNslYGfIx79VfdBHAaLj32PKGLHL2XfkJxoB56pFiIQWBGHzpjjXHLS2sfHJb5OLGtZVfmJSRA4iv%2FsIRnSpG25g2zFEsVBz4htnpBWf7RbHOhEISiMu%2F4vNn0t4gZ%2BtKpc566qANw%2FAw2tIIwOV3usWcU8RcRKQ3g%3D%3D%7Ctkp%3ABlBMUODAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$22.00",
+          "extracted": 22
+        },
+        "to": {
+          "raw": "$35.00",
+          "extracted": 35
+        }
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "thumbnail": "https://i.ebayimg.com/images/g/fGQAAOSwfqBnMRIw/s-l140.jpg",
+      "seller": {
+        "username": "isla-coffee",
+        "reviews": 1000,
+        "positive_feedback_in_percentage": 100
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "4 Pack Ryze Organic Mushroom Coffee W* 1 RYZE Spoon 100% Authentic FREE SHIPPING",
+      "link": "https://www.ebay.com/itm/187424320792?_skw=coffee&itmmeta=01K221BW0HPKMCT4ZDS5VZ16E9&hash=item2ba35c2d18:g:8n4AAOSw2Alno--C&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1cypXJT73Rz6%2FpHVpyGoKea1sOsC0q35BpWJ0NmohruJOnHboj42jDolm%2B1gEAPoL94%2Bl82AQdQd5EFmQePgBfhxNIs%2B%2BBlM6AznBMBTfwrOzsHUbDLDgoIxiWZt%2BmUEbgxFeUIKzAfYYULHXs4qIcA6p0bGoLGYc0TKvHrUyNwwxUwDMI1%2B6mzY3lYjWq3XQbYaWTLnfsrLBIoRLJOirk042I3PLeh%2BU%2FOfVA1ybCwpMLeU71QCxEdOVVXjFyi6tciwWmkRo1fg1%2BsthMgRFXM%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$19.00",
+        "extracted": 19
+      },
+      "old_price": {
+        "raw": "$41.00",
+        "extracted": 41,
+        "discount": "54% off"
+      },
+      "shipping": "Free delivery",
+      "location": "Located in Hong Kong",
+      "quantity_sold": "739 sold",
+      "extracted_quantity_sold": 739,
+      "thumbnail": "https://i.ebayimg.com/images/g/8n4AAOSw2Alno--C/s-l140.jpg",
+      "seller": {
+        "username": "fyf156561",
+        "reviews": 1,
+        "positive_feedback_in_percentage": 0
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2 Pack Mushroom Coffee 100% Authentic FREE SHIPPING",
+      "link": "https://www.ebay.com/itm/197531453987?_skw=coffee&itmmeta=01K221BW0HRAZRYNQBJ22A1KJA&hash=item2dfdcaca23:g:Y9cAAeSwXIZodp~b&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1dpKDR29YA%2BdSs%2BudOF8yKVAARSo%2F78ln%2FV8%2B3FrLwtUi0TDy638ARJHQngweG4LDQmgc2tGzmGaI3ppvbDqYY%2BbOB2MKc%2FEGaaeHpvzqI%2FrgwDaY34MW3KO9J6rii%2BdJNU6F46Mr4M52NWbsr5fpkuBTHMTGkBQzmss7a%2B8%2BG7tYL9d8YwboR%2BC9%2B3ufncuxD3fa%2FLPm3XbgKzBOOyzbZ7Jg1sMrGDoiwVCehLOj3P7dBPp6hc3vmvVy7dhp%2FartCEdVO0LGqbDzyUs%2BK46pQU%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$24.87",
+        "extracted": 24.87
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "151 sold",
+      "extracted_quantity_sold": 151,
+      "thumbnail": "https://i.ebayimg.com/images/g/Y9cAAeSwXIZodp~b/s-l140.jpg",
+      "promotion": "Save up to 10% when you buy more",
+      "seller": {
+        "username": "tjaarat",
+        "reviews": 35,
+        "positive_feedback_in_percentage": 100
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2 lb 5 lb 10 lb COLOMBIA SUPREMO FRESH ROASTED COLOMBIAN COFFEE BEANS - ARABICA",
+      "subtitle": "AVAILABLE WHOLE BEAN OR GROUND - BUY MORE AND SAVE !!",
+      "link": "https://www.ebay.com/itm/153019705014?_skw=coffee&var=452830785473&itmmeta=01K221BW0HEG3A9B5VGNA4H00E&hash=item23a0af66b6:g:CWMAAOSw7kVa9xme&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1cg7rhneM%2BuVswE1O9rnbMwWCWmvLwMP6faRDtkuYoiDmVGviEAheiwEegFN9iUKf%2FxnGpuT%2BXj5w8TNITOiilnLkkaWZBfwujkkqLi1fYeHhj5Oc2IDYCm0bW46vRHHdFcPIfP3Z%2BKSjr9kvCcjBphbFwLh4vdETvAXcCx2ujZXHz72gPS0RKeOK1eTwCwfdfZzcH5BiB2MzWm9QtH6Z3JOTZwySbkNvgRTOOCJJGWcQ%3D%3D%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$24.60",
+          "extracted": 24.6
+        },
+        "to": {
+          "raw": "$91.01",
+          "extracted": 91.01
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "92+ sold",
+      "extracted_quantity_sold": 92,
+      "thumbnail": "https://i.ebayimg.com/images/g/CWMAAOSw7kVa9xme/s-l140.jpg",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2024 New RYZE Mushroom Coffee Organic Coffee 30 Servings in one Pack - No odor",
+      "link": "https://www.ebay.com/itm/297430711432?_skw=coffee&itmmeta=01K221BW0J69YE63YFH30NM8MG&hash=item4540407c88:g:BccAAOSwmN9nRTSb&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1e5KepOe9LUvXdpe5hj37XdrHFmXA6Bl98RSVidAjWXyqUhz35NxW6%2ByZrYN0jyeqqYAEW%2Bd7OaTL9VHRbhyQlVX3va%2BVzd1Kqqr8y3j6LT78M%2FXX7Mt1VxvaK4DziziniLcHLXbQF%2B7IzObUoM3c1wa7qcsc2FbQR%2FA3pOj4GsBqrQlU%2B1tNXdSVwjZbvn3M8DA%2FrpKUGiujUZUfoHWU%2Bux1lkfwWVQNSHpXZbs8UwFbM248kq8A%2FkX3AKs06rmLO8wespwhJFOMi84O0%2F8LR9%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$13.57",
+        "extracted": 13.57
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "1,241 sold",
+      "extracted_quantity_sold": 1241,
+      "thumbnail": "https://i.ebayimg.com/images/g/BccAAOSwmN9nRTSb/s-l140.jpg",
+      "seller": {
+        "username": "grge645614",
+        "reviews": 1600,
+        "positive_feedback_in_percentage": 98.9
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "3 PACKS Folgers Classic Roast Ground Coffee, Medium Roast, 40.3 Oz. Canister",
+      "link": "https://www.ebay.com/itm/356666912146?_skw=coffee&epid=23056259374&itmmeta=01K221BW0JXHEEMEFD1D83E98H&hash=item530b012d92:g:5~8AAOSwMPRn1ADj&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1e1RYX%2Fs%2FFl1%2BCBmL547lSM8bI6%2BVTtJQHlYZHqP7WLAsJIOYkzcb7CaVf1vHsoL3Y1TvLv1JRlmeZayjXCManiPbMDim33%2BzbefOd3ZZ%2FpkXyAORKU4ofOWFZ9wAf3FD4a9sFqAealNAOcAhAGpRXEPrieJgeczkKyX3PBlVv4N2V8HR0JHM87bxLaGftncgOGLUJtVpBeVWa%2FAMDWRGSFcv3qc6cam7pGeCG1bXthXw%3D%3D%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "rating": 5,
+      "reviews": 52,
+      "price": {
+        "raw": "$46.28",
+        "extracted": 46.28
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "75 sold",
+      "extracted_quantity_sold": 75,
+      "thumbnail": "https://i.ebayimg.com/images/g/5~8AAOSwMPRn1ADj/s-l140.jpg",
+      "seller": {
+        "username": "yu_1946",
+        "reviews": 129,
+        "positive_feedback_in_percentage": 94.5
+      },
+      "stock_status": "Almost gone"
+    },
+    {
+      "sponsored": true,
+      "title": "Hills Bros. Coffee 100% Colombian Ground Coffee, Dark Roast, 24 Oz",
+      "link": "https://www.ebay.com/itm/306421057565?_skw=coffee&itmmeta=01K221BW0JA7KNT6NAPA8PATGX&hash=item47581e481d:g:4BsAAeSwt8hoiJiX&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1dFPwljjq0lcMqiUCcdsE6vaNATlmTHi%2FPYf7n34IdFCD9EXW11IffvdTUBWiqpQEwAN5TrzhXgF8xrMfutiPNHD2fmVOhJ61DKPeUCPwq35gyY3fULTD%2FXN6VC7t%2FNH6Ap5iom%2F1j%2BXSCz3n62ZjFNQxD8Cuquj9Q3voL4zRoEyNXDzvOx8DDQ4PeL72FXCg0m%2FVsfZ7N6FYZchmJiSmZ8psMV9WLd21TTgz7ZoLitlAfaKE0AHKJsblUENmQqUkDuzSq1Ut0eleATtWx5NPkK%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$14.94",
+        "extracted": 14.94
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "13 sold",
+      "extracted_quantity_sold": 13,
+      "thumbnail": "https://i.ebayimg.com/images/g/4BsAAeSwt8hoiJiX/s-l140.jpg",
+      "seller": {
+        "username": "marketspotus",
+        "reviews": 5,
+        "positive_feedback_in_percentage": 60
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "3 Pack Folgers Colombian Ground Coffee, Medium Roast, 33.7 Ounce Canister",
+      "link": "https://www.ebay.com/itm/177050615453?_skw=coffee&itmmeta=01K221BW0JZKY7QMRGY8NWVJC3&hash=item293909fe9d:g:0sYAAOSwOh9nkaWV&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1c85GKs7Dvt%2FC4Jr3WYXTKM3o8szBZZp3MtGbZ6ZdFeMqiG9OP%2FpwLmd0y0J%2FM6CUYiS3fubW7ZHew4TqARsS0VkrUeyu2bgMObr5pRYtocFzn5o8jpx34rM%2FCHGnBaFjvbEjxV%2B3z8VnrY7zu3Rp4ns0jsWD2N9IAvRFxkblJVYrZLrbHv4RSKNmMcSfatAG%2FnK5KCuDCkp21t2w8XQTqb48vm8BMckIIE06bg%2FV7F18C0pwLsc%2B0phUrQQV1BBOnH6Tguvic6t740HG9z5kp6%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$46.94",
+        "extracted": 46.94
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "32 sold",
+      "extracted_quantity_sold": 32,
+      "thumbnail": "https://i.ebayimg.com/images/g/0sYAAOSwOh9nkaWV/s-l140.jpg",
+      "seller": {
+        "username": "miksa-9",
+        "reviews": 264,
+        "positive_feedback_in_percentage": 95.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2, 5, 10 lb Organic MEXICO CHIAPAS ROASTED COFFEE WHOLE BEANS, GROUND - ARABICA",
+      "link": "https://www.ebay.com/itm/153934248875?_skw=coffee&var=454002498930&itmmeta=01K221BW0J3Y993MM5ETDKDE3E&hash=item23d7323bab:g:HE0AAOSw0~devxvg&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1eIegJsrC2sjMYLeTzNb3xvALuiFfDy23YNZFxWh0IXTidKye2YonrJjmetDx54wvXvxsGqW%2FS8vDjtWOqDzvd2LPVgmY5ifGKP6Qw75CmukirOPhJJjyAzpP7ezKMbivYaBgHNCIChholfCOSB0lovsTLGTLsrcgD9mp9Z1UA5y%2B5Ulp31d6fWR8PwkwanNdoEsLVpclUjyOnH6UZhV1Z7hdbqX5iY2vv7k2td0pSKZupMlwqYFGGn9voWMK4xGZ%2BdMvYZ7VaIxRwOsdlHvg8k%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$28.29",
+          "extracted": 28.29
+        },
+        "to": {
+          "raw": "$86.54",
+          "extracted": 86.54
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/HE0AAOSw0~devxvg/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2 Pack Of Ryze Organic Mushroom Coffee",
+      "link": "https://www.ebay.com/itm/197544335520?_skw=coffee&itmmeta=01K221BW0JBQ634S70ERS6XKZV&hash=item2dfe8f58a0:g:PmYAAeSwpY9oe975&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1ce55Z5dGKG7uj9u%2FLRZx7FQs%2FabTF7NYVhD%2BskHmXouBWx2vJD9f3J4Ffh15fnhqqpCh0IWZahYY3oKClCwkHmHO6TifMJLgMlCBxmKSJGdvrgBOVSS28FHgeLICfdeX94063uJlaeL9LKlB%2Fz4b2SqJuYWG%2FZoESJhNNHRnX1w%2BgVvt8DAYX1Co9d8emtkVGiAUGA9fpvcdvJ0ZJqtYeLwGMNEF4JZud%2ByBqpOkAYpw%3D%3D%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$25.04",
+        "extracted": 25.04
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "179 sold",
+      "extracted_quantity_sold": 179,
+      "thumbnail": "https://i.ebayimg.com/images/g/PmYAAeSwpY9oe975/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "tjaarat",
+        "reviews": 35,
+        "positive_feedback_in_percentage": 100
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Organic RYZE Mushroom Coffee 30 Servings [ Free shipping ]",
+      "link": "https://www.ebay.com/itm/286678727763?_skw=coffee&itmmeta=01K221BW0J02NVGJA8FKPAXXAX&hash=item42bf623c53:g:RXIAAeSwJD5oYAuG&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1fXK%2BUEhezDqVs0qF5xxHz37CKiK7AeelU3WcHB9NQT2SiAtiG7LbI1UHyeQ67zk0s75crp5MVvoP7pWA9eEk28KoKFsJkb%2FUKYQEH7G37XSpWrZNpYklV3prXbWuHbAOqfQ%2BiIYOPfbhYLs%2BkSPqDDcnjjch72RZcUyNCbwo8sXGBX5GViuilqoL0Nv%2BUltALVsVWTKoalwk1WPvPqc4bDjCcl4Voxom3j3pqkF4%2Bctg%3D%3D%7Ctkp%3ABlBMUOLAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$22.99",
+        "extracted": 22.99
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "285 sold",
+      "extracted_quantity_sold": 285,
+      "thumbnail": "https://i.ebayimg.com/images/g/RXIAAeSwJD5oYAuG/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "maheerselects",
+        "reviews": 1400,
+        "positive_feedback_in_percentage": 98.3
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2025 New 10 in 1 Mushroom Coffee Organic Coffee 60 Servings in One Pack, No Odor",
+      "link": "https://www.ebay.com/itm/365586644912?_skw=coffee&itmmeta=01K221BW0JM11WKXK038VHNYKS&hash=item551ea97fb0:g:7qsAAOSwRhtoGs0H&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1e%2FKDrVCL6LA5VfTHOaluMG9RPdEYsKoskI5gz2ytFjvQ3QQI41FRkVZ9KbGFkpcmoXXQ3JwjxDCkuV8p2c6eJxltxVjWshaB1250kmumepAhm4sI9yj%2BuwyMgovNYH%2FSQV08grkwakxJDmAVQvhlL40hTL%2BKBYEG3eccgZXj7sgr7LhFvuPjpMSH0GISPmUgVKcouMcW1ql9HQQbovsRKuzTxCT1OZUI0r8SjeTofM1Q%3D%3D%7Ctkp%3ABlBMUOLAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$17.60",
+        "extracted": 17.6
+      },
+      "old_price": {
+        "raw": "$40.00",
+        "extracted": 40,
+        "discount": "56% off"
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "65 sold",
+      "extracted_quantity_sold": 65,
+      "thumbnail": "https://i.ebayimg.com/images/g/7qsAAOSwRhtoGs0H/s-l140.jpg",
+      "promotion": "Extra 6% off with coupon",
+      "seller": {
+        "username": "jiaxiandz3",
+        "reviews": 198,
+        "positive_feedback_in_percentage": 99.5
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "5 LB ETHIOPIAN ETHIOPIA YIRGACHEFFE UNROASTED GREEN COFFEE BEANS - ARABICA",
+      "link": "https://www.ebay.com/itm/153544570734?_skw=coffee&itmmeta=01K221BW0J2ECSPWYY9VJMQ684&hash=item23bff8376e:g:zA4AAOSwC5NdFQdt&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1e1Ay4LMs32sDel5J8ByIaT8LfsSvOfZFNO45ljzb72zhjSuW%2BXW4dyL59%2FRoumU%2FrTIyBCrr6em173OaUBSo4ua8PYSC8KVx1PB9SVO0NG7%2Bq7r29GmmOQeEIKZat99f%2BsELKEr4DjCo68cGS4FSZMxLyZtLahWCGHU3mhBkfQLpTZkZm4g9IdgEo00jxntnBpmZHJ%2F0kYUNUsT2dcS%2Bn6PyrkVFp4GLYnekwVyFhGgw%3D%3D%7Ctkp%3ABlBMUOLAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$38.99",
+        "extracted": 38.99
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "747 sold",
+      "extracted_quantity_sold": 747,
+      "thumbnail": "https://i.ebayimg.com/images/g/zA4AAOSwC5NdFQdt/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "McCafe Breakfast Blend, Ground Coffee, Light Roast, 30oz. Canned",
+      "subtitle": "1 Box of 24 Pods | Direct From Manufacturer",
+      "link": "https://www.ebay.com/itm/314203682637?_skw=coffee&itmmeta=01K221BW0JT1G8SDWCC1AARC46&hash=item4927ffb74d:g:SJAAAeSwtrBojW3S&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1f%2FNICE94Z4KgkBpoV4nFpuMRX1A0KTyYr1PCENIzp0jGjHt0ZNoWwrznvgYaJFbI--qYw2rpLnjUBI%2B06gtMH9dXRXzemx5TWopy21nwJh9RqDjX0VdLvh2NCQKuOqG4dsrf55mdRK7cX9CRvkYLTp2AGXeUDOFI1wviTjyJsFyl%2FzLroK3WUlH8X%2F5UzjEa0Hj2x%2B%2Bw7sjbOkRkF99iskYP95o%2By%2BmbXpLwdQGMTxhrau%2FUoqVx9WmMXHbiaTbo%2Fq%2FZibdJ0CI5EDZKJLLWPE%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$13.99",
+        "extracted": 13.99
+      },
+      "old_price": {
+        "raw": "$23.99",
+        "extracted": 23.99,
+        "discount": "42% off"
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "location": "Located in United States",
+      "extensions": ["Direct from Keurig"],
+      "quantity_sold": "1,268 sold",
+      "extracted_quantity_sold": 1268,
+      "thumbnail": "https://i.ebayimg.com/images/g/SJAAAeSwtrBojW3S/s-l140.jpg",
+      "promotion": "Save up to 20% when you buy more",
+      "seller": {
+        "username": "keurig_direct",
+        "reviews": 47600,
+        "positive_feedback_in_percentage": 99.7
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "(3 pack) Folgers Half Caff Ground Coffee, Medium Roast, 22.6-Ounce Canister",
+      "link": "https://www.ebay.com/itm/177050615456?_skw=coffee&itmmeta=01K221BW0JSAZ6CX0GSEKSBJW1&hash=item293909fea0:g:7jIAAOSwCmJnILMP&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1ctpOfTR0hCRsocVa5lidl8Lyf7l5D5ECvIqXciodqDxHf3UirKUO02dWgQvnqUZ6WhiREGGQ33pAEMluFDPd4%2BV5s0giqW%2B2DJ859rYwcQN0iT%2F0MWtR5Qk2EQK4ewKihkiw%2BBJxTFMvSDdT7EW%2BQW2U9pYsXhzRiHocTPnkVYfrteHmvl0AnjzQhvSSNTDclyc%2FL0BolR9a8w4vTtpvk8pJRf%2FVSUyXKUaNQ2FKLgwg%3D%3D%7Ctkp%3ABk9SR-LAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$36.00",
+        "extracted": 36
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "32 sold",
+      "extracted_quantity_sold": 32,
+      "thumbnail": "https://i.ebayimg.com/images/g/7jIAAOSwCmJnILMP/s-l140.jpg",
+      "seller": {
+        "username": "miksa-9",
+        "reviews": 264,
+        "positive_feedback_in_percentage": 95.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "100% HAWAIIAN KONA PEABERRY COFFEE BEANS MEDIUM ROASTED 2 / 12LBS - 1 POUND BAGS",
+      "subtitle": "You Can Buy A Cheaper Coffee But Never A Finer Coffee !",
+      "link": "https://www.ebay.com/itm/125534657741?_skw=coffee&var=426579427519&itmmeta=01K221BW0JEAVH0R0CVM8P80K5&hash=item1d3a72dccd:g:4QcAAOSw5yBmtZwk&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1d4m%2BGTM8Op0NncB5s43Nl7CDgZpwZ3VyWkYjirGSMRkE%2FAIUx%2BArVMuhUPcIGPiOallZT8lSjeQYQbqDMLzIYjE4Vmqa6l7RFfTl1Ro3ijgrH%2F7QWYPxRue41TlURj%2Fdep%2FsAhBQJysUDbQQ8VzmEnyF6ELA7MsudykJ0RAJiwgpuv%2FmJOoV0d8U4FraYCz%2F%2BT24Pc2%2BtxjrT7kvUOe8EymxyDSYh2Dd5oyz1Rqdx%2B7A%3D%3D%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$44.95",
+          "extracted": 44.95
+        },
+        "to": {
+          "raw": "$192.95",
+          "extracted": 192.95
+        }
+      },
+      "shipping": {
+        "raw": "+$3.95",
+        "extracted": 3.95
+      },
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/4QcAAOSw5yBmtZwk/s-l140.jpg",
+      "promotion": "$15 off 3+ with coupon",
+      "seller": {
+        "username": "bluemacawcoffeeroasters",
+        "reviews": 70000,
+        "positive_feedback_in_percentage": 99.8
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "(2 pack) Folgers Classic Roast Ground Coffee, Medium Roast, 40.3 oz Canister",
+      "link": "https://www.ebay.com/itm/177050615458?_skw=coffee&itmmeta=01K221BW0JPNJPD70AEXHZ54FX&hash=item293909fea2:g:TgwAAOSwC2Zn4Sxv&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fTdxScDX0eqGW%2FYffERaTmtgG6BiDtXawp1D2qE%2BmBqs4RIgFgAFDGDDqQ5Dj8GfYPgGf3X3pB3qocYUHy7dz16ifbdPeMUuadsn3TJfocwYpOwwjsFm6Uk2xMmnGDfi7EGeNrEz6fkR1MK4A7K5oAK%2B1VCwA4S40YudOfjOwcQYdVZ6HLVbDyMpFOYEgW1XIE7sbrYu3eZrX9D0DkKmtcvf1U77SNoJ4qpe4GpDkHvDsbbwVa9Epvf9hAi8ykawc82aKWt1MVqC6BLn8Spf2N%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$36.00",
+        "extracted": 36
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "29 sold",
+      "extracted_quantity_sold": 29,
+      "thumbnail": "https://i.ebayimg.com/images/g/TgwAAOSwC2Zn4Sxv/s-l140.jpg",
+      "seller": {
+        "username": "miksa-9",
+        "reviews": 264,
+        "positive_feedback_in_percentage": 95.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "McCafe Premium Roast, Ground Coffee, Medium Roast, 30oz. Canned",
+      "subtitle": "1 Can of 30 Oz | Direct From Manufacturer",
+      "link": "https://www.ebay.com/itm/314203682549?_skw=coffee&epid=24062826674&itmmeta=01K221BW0JGZMY1GGCAKCC41XM&hash=item4927ffb6f5:g:57EAAeSw9qFob9kb&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1cNNxGw4jgaaflFVi2Uzi%2BJBfuAYFLboXXlvYrxZuT91G9P9ZYMv%2BqBvwWp2GcFk06SuAYn8oU%2BHVDaFoWSxqG0WC22HCLWoYyBFVyUbQJObR6%2F1yZwb5006uem0iFV%2BALlCducLpR7mmINCNehqibW6rlcMEClda2N%2FGiDTZ12kemM2ZdtoVcklXiE2U%2B7XzC%2FzCDJTlkQltJAVYxLe40%2FUHc75SDecg4tv%2BEMgYq1Ql5tb1x1Nh8EBtDC0iiCxttN88n9aCblR301z5Huq6Pn%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "rating": 4.5,
+      "reviews": 4,
+      "price": {
+        "raw": "$14.99",
+        "extracted": 14.99
+      },
+      "old_price": {
+        "raw": "$23.99",
+        "extracted": 23.99,
+        "discount": "38% off"
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "location": "Located in United States",
+      "extensions": ["Direct from Keurig"],
+      "quantity_sold": "1,756 sold",
+      "extracted_quantity_sold": 1756,
+      "thumbnail": "https://i.ebayimg.com/images/g/57EAAeSw9qFob9kb/s-l140.jpg",
+      "promotion": "Save up to 20% when you buy more",
+      "seller": {
+        "username": "keurig_direct",
+        "reviews": 47600,
+        "positive_feedback_in_percentage": 99.7
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Folgers Classic Roast Ground Coffee, 40.3-Ounce",
+      "link": "https://www.ebay.com/itm/395172711405?_skw=coffee&epid=23056259374&itmmeta=01K221BW0J2S853Z329HQT02KY&hash=item5c02210bed:g:KU8AAOSw6eBlupDt&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1eYsvvJudhZg7%2Fosu3xBXs2AwbyEo%2FIYLdVtqJgvfFo2te35piVisf7Y2K3EXkxtxnf3ui1mChvzsDxF85EC3Ct020ednP%2Fnc2DJLdFa9NYnz%2BgaUA%2BSYk3pGZAZoLbGTOPVdJUnEyyAYdf2cay%2BhkJSHMXGMmMKcHoXVBCxtNxH6LNLiTIXKUub8bjHnxnlVFG7Ru9jX5qVqjK%2BfTceA7NPq6EQYMuo29IfwqsvbAW9g%3D%3D%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "rating": 5,
+      "reviews": 52,
+      "price": {
+        "raw": "$20.90",
+        "extracted": 20.9
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "518 sold",
+      "extracted_quantity_sold": 518,
+      "thumbnail": "https://i.ebayimg.com/images/g/KU8AAOSw6eBlupDt/s-l140.jpg",
+      "seller": {
+        "username": "i_and_k_trading_co",
+        "reviews": 1900,
+        "positive_feedback_in_percentage": 99.1
+      },
+      "stock_status": "Last one"
+    },
+    {
+      "sponsored": true,
+      "title": "Caribou Coffee Decaf Caribou Blend Medium Roast Ground Coffee, Arabica 12 oz New",
+      "link": "https://www.ebay.com/itm/167562481945?_skw=coffee&epid=691229632&itmmeta=01K221BW0JJ6YB6DJTGEZVD1R9&hash=item2703809119:g:R5IAAOSwUbJoQJWN&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1ebSYj8CvlylsyJbMoWsRC9%2FJO7Ix16HDldPX%2Bznpe36%2B0ZSWowK0c%2BxwGtRfRLW7yHzx3vkiT9bVX06bKvdpzlkEidsiNnt1wJx2udzuZMLHtmYTUsBEzdYqisemvVDGf1R2D%2FGy9E5zL1BsXTrZ9wY6sMjrP9hu5chpllt8jeuUt6%2BlwOKfNdlk8G95yn1iMKwBOjgHH03DfAQHDKO%2FmJ92RUN%2BEJ59x9WX6xnVRnQg%3D%3D%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "rating": 4.5,
+      "reviews": 4,
+      "price": {
+        "raw": "$7.38",
+        "extracted": 7.38
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "45 sold",
+      "extracted_quantity_sold": 45,
+      "thumbnail": "https://i.ebayimg.com/images/g/R5IAAOSwUbJoQJWN/s-l140.jpg",
+      "seller": {
+        "username": "discountst_8",
+        "reviews": 1600,
+        "positive_feedback_in_percentage": 99.3
+      },
+      "stock_status": "Last one"
+    },
+    {
+      "sponsored": true,
+      "title": "Hills Bros. Coffee 100% Colombian Ground Coffee, Dark Roast, 24 Oz NEW.....",
+      "link": "https://www.ebay.com/itm/146679810204?_skw=coffee&itmmeta=01K221BW0JZB3SQ4VJ3S9RW63E&hash=item2226cc489c:g:H0IAAeSw0pxoYUEA&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1f15Zzz%2FMtME6o%2BEtzsPusiY3Sc1sDYedbVBbhgDieVsetOHTim9QGP0QHNM%2Fsvoxw5Ejpm6MkgB68yIU8zqeJqQf%2Bm2AvCC90YCbTBHE2DkknO1n9DDDqY1aHeKffHapu3DP40QM6F9Y5JFIEHIQfVbwnW%2F1S37mig79ILwCXZdtWAQa81ngS%2BBd4UkhDQ%2BfGx8zsRS53waaVqYA8hzkHhtt2skawIsAH5Mku%2F8w2SaSPdJ0XRA9EViUpPhRyk%2FMsNQBBDUuGjQSO7kaCdI9t2%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$9.45",
+        "extracted": 9.45
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "18 sold",
+      "extracted_quantity_sold": 18,
+      "thumbnail": "https://i.ebayimg.com/images/g/H0IAAeSw0pxoYUEA/s-l140.jpg",
+      "seller": {
+        "username": "mahmood768",
+        "reviews": 55,
+        "positive_feedback_in_percentage": 96.6
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2027 Ryze Mushroom Coffee Organic New 30 SERVINGS FREE SHIPPING SAME OR NEXT DAY",
+      "link": "https://www.ebay.com/itm/127271133774?_skw=coffee&itmmeta=01K221BW0JBJ54E2Q4EW0QTSBE&hash=item1da1f3624e:g:GMQAAOSwBTpoU6Lh&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1cOx0wWnJRIyQsYOcjxJEcVMmhiALfinuA8jbYWsiOY4TwLjvRVvCNTaELTDoQzMSg4qqR1EU3jXYrh5ReU0hlpaGzLOY9UhxqUjkjeG44f2Uy%2F%2B7eyxxwUKgcCkcRP%2BPGVTTJUy%2FHBLRxv9NzSVVKwzXND9Lu8Ed%2BG9Nr7naiZPEJHUjFKE4GnzAKunO2ZVhT2at6B8QyymN8VK%2BvFi1DbEXLjsStno2pCftMJgtccfk2rgLbW3OY7k8NSb9R7UWZRNz1WMAyXkP8vsge0Xnbn%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$14.57",
+        "extracted": 14.57
+      },
+      "shipping": "Free delivery",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "176 sold",
+      "extracted_quantity_sold": 176,
+      "thumbnail": "https://i.ebayimg.com/images/g/GMQAAOSwBTpoU6Lh/s-l140.jpg",
+      "seller": {
+        "username": "sswholesale",
+        "reviews": 329,
+        "positive_feedback_in_percentage": 98.5
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2 Pack Of Ryze Organic Mushroom Coffee",
+      "link": "https://www.ebay.com/itm/357374025261?_skw=coffee&itmmeta=01K221BW0JWWDHTR3SK4CPX4BY&hash=item533526de2d:g:i24AAeSwLLJoiJnn&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1eM2%2FRNVUoLngoAw3Pu46PlOVNTj8e6%2BtZz2PwUpfxnoW7caPiN%2FKVs1tyHMjndbE7IEJILnfGDn1u9utFcGPkCDwgLVO7x0A2qqr4mNPQ6HdcM2S8PDXOzDzpUfsLUzi0Li%2FP%2FMBJlFiAdrLNBhPseBF94Co7asyHs3ccGyLDG7dUsTox8Ju%2BOXrZs4mUp7EUG0QICgonfUEHUummdLIrte9rax9frSW1aM3sd4EX8GbdebgahqhjLUkKtpaed6gOoxMZaJJGpB16RBpykMmql%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$24.40",
+        "extracted": 24.4
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "32 sold",
+      "extracted_quantity_sold": 32,
+      "thumbnail": "https://i.ebayimg.com/images/g/i24AAeSwLLJoiJnn/s-l140.jpg",
+      "seller": {
+        "username": "thearmzstore",
+        "reviews": 24,
+        "positive_feedback_in_percentage": 100
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2 lb 5 lb 10 lb COLOMBIA EXCELSO FRESH ROASTED SINGLE ORIGIN COFFEE - ARABICA",
+      "subtitle": "AVAILABLE WHOLE BEAN OR GROUND - BUY MORE AND SAVE !!",
+      "link": "https://www.ebay.com/itm/153020720698?_skw=coffee&var=453148207396&itmmeta=01K221BW0JXYSAF9NP6APGSHMX&hash=item23a0bee63a:g:pF8AAOSwsWddOeht&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1efyZB467N6SFBwg%2FqQnsFKb8XU8bYQSD96sCGYzk1%2BXKfibAQyF3Dh9YN0rKQVrwDDV6YqblvEJFBPq7DJVyT0nRcBZ%2F1NlHs%2Frea3NeqA1c4FbdWP75DvrwJt8VU0v3jXsIGlT%2BgYoWtuXE8jgUe0z6FHOnm7I%2F8%2FTZvBWAe6XVoXUOeLaous41CTYtldB%2BBWO5rtEBC0%2Bj7CFdSnMmpzXjpwkjqMdtCkRrB7A4KDy8E367WDkNBFvoj21MoxhogxiuH53zGd4Ih8Zfq5kBZJ%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$24.60",
+          "extracted": 24.6
+        },
+        "to": {
+          "raw": "$90.52",
+          "extracted": 90.52
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "153+ sold",
+      "extracted_quantity_sold": 153,
+      "thumbnail": "https://i.ebayimg.com/images/g/pF8AAOSwsWddOeht/s-l140.jpg",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2, 5, 10 LB COSTA RICA FRESH ROASTED COFFEE WHOLE BEAN, GROUND - ARABICA",
+      "link": "https://www.ebay.com/itm/153271101309?_skw=coffee&var=453148266879&itmmeta=01K221BW0JM039X79ME1C9B0W7&hash=item23afab677d:g:5SMAAOSwn91b9ciB&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1cd9Nx1mkpnjIxPbJoxmknh8e2vcQSX9tOUKq6UXrtcI88nTouAMKUVt1cxfX%2FsBnADwZRYRqPSxapc63Lmyx6sWmBfjvUBnlKib5eMcSnWPbYu%2FP6IcHYOE5PeyNnlui%2FXG%2FjLJFn7wqucuNXkghC3tiOWZM0kgF64HLhKPSsuUK6NJYriEbz3vGK5GYMqpQyyhnCrwQ3d7I0gNQcCKvftMb2Vp%2FtkQsgXvpTtDwXRaA%3D%3D%7Ctkp%3ABk9SR-TAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$26.88",
+          "extracted": 26.88
+        },
+        "to": {
+          "raw": "$89.09",
+          "extracted": 89.09
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/5SMAAOSwn91b9ciB/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Dunkin' Donuts Espresso Blend Whole Bean Coffee, 2 lb Bag",
+      "link": "https://www.ebay.com/itm/396483358820?_skw=coffee&itmmeta=01K221BW0J8K5A4W7RVE23V9FA&hash=item5c503ff064:g:lusAAeSwdhpn~~Jz&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1fnLoXSROWgBYbDKLO0WQoXOW0UKwUXCoddyytBnGJ%2BWNCFr5g0B9ETyyLSqq2gC3HtrhvZt2zuJfC3x010ZF1bnIcRCqe6m%2B3PrG0q6XAhMKDXvlP14OiNfsXK57qoqx01gQj7IX2wR89LBGbEOc0f%2BTFq0ysPsTTYrQDhA8voo9utIkLfCIo2iRVBlZWbwB73x2X7kc4%2BwnCSvIawNj6Ns2Bv%2FRwRFu%2B8YMmtpvSsHg%3D%3D%7Ctkp%3ABlBMUOTAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$22.00",
+        "extracted": 22
+      },
+      "shipping": {
+        "raw": "+$6.99",
+        "extracted": 6.99
+      },
+      "location": "Located in United States",
+      "quantity_sold": "183 sold",
+      "extracted_quantity_sold": 183,
+      "thumbnail": "https://i.ebayimg.com/images/g/lusAAeSwdhpn~~Jz/s-l140.jpg",
+      "promotion": "Save up to 20% when you buy more",
+      "seller": {
+        "username": "habitatcaz",
+        "reviews": 2300,
+        "positive_feedback_in_percentage": 98.9
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Canan Koska Turkish Coffee Medium Roast Ground Coffee 100% Arabica, 100 gr",
+      "link": "https://www.ebay.com/itm/388795083867?_skw=coffee&itmmeta=01K221BW0J453YQW97J5BHK2GW&hash=item5a85fe2c5b:g:Un4AAeSwGk9oj~93&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1fvfcglvQktGKfjgP1dKydIMstgtxSDjjF5%2F9%2BidbQXxmnJAnW4l1CK%2FjNEgsVqzJKqGg%2F5SCc3%2Fny%2F6BVi5%2BTkhho1Mn7sgwJ%2BIc%2BmxYKD7V3RiTuPLbLsj2pXI7klGchc3770G2TEde7MBPrt4yxgxjw%2FtkIdoLDkRyST1o5jh5eqzPBthzTBdj7PV9DjcXpZoBe7B%2FXYV2zYgc8cGHDAakRxxg6%2BZ%2BrxrBu2KLUUaQ%3D%3D%7Ctkp%3ABlBMUOTAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$3.99",
+        "extracted": 3.99
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "thumbnail": "https://i.ebayimg.com/images/g/Un4AAeSwGk9oj~93/s-l140.jpg",
+      "seller": {
+        "username": "umay_trades",
+        "reviews": 0,
+        "positive_feedback_in_percentage": 0
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Folgers Classic Roast Instant Coffee, 8 oz Jar",
+      "link": "https://www.ebay.com/itm/317064387240?_skw=coffee&epid=1300336162&itmmeta=01K221BW0JQ58PT8TQT65CDJ9V&hash=item49d2829aa8:g:z7cAAeSwhe9obCbB&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1dyTZTvZJOueVwbGp0bbLZFfs%2FKcZd1KDIGbHiKivxR5uneDTqVFtTJfvHTU3jSdUSEbG4BhcS%2FyToHhPyh5hxklOa%2FePQC3QzVGR4VLxtBUnfaDoo4RIz0O0MeuoeZqLecWxC1ZYHVWRxZXpuRNCRVGleUDlMOU2oEjx0fK82wvubAhqQcv8r9y3s%2F8MVmmXM6BVqyRLcdMIBbEUUZYTVg4SldsI%2Fef7CdWZPyEn2hgA%3D%3D%7Ctkp%3ABlBMUOTAr8GQZg",
+      "condition": "Brand New",
+      "rating": 5,
+      "reviews": 26,
+      "price": {
+        "raw": "$6.39",
+        "extracted": 6.39
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "30 sold",
+      "extracted_quantity_sold": 30,
+      "thumbnail": "https://i.ebayimg.com/images/g/z7cAAeSwhe9obCbB/s-l140.jpg",
+      "seller": {
+        "username": "promoper-33",
+        "reviews": 1600,
+        "positive_feedback_in_percentage": 99.1
+      },
+      "stock_status": "Last one"
+    },
+    {
+      "sponsored": true,
+      "title": "(Pack of 3) Organic RYZE Mushroom Coffee 30 Servings Per Pack [ Free shipping ]",
+      "link": "https://www.ebay.com/itm/286678760157?_skw=coffee&itmmeta=01K221BW0J17KEH6BHDXNTGSN2&hash=item42bf62badd:g:PeYAAeSwsTdoYBVr&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1e1QBjTpUfdr8yfBl6TWRfAMaBpaI44fvz9dsPgsZYJctqhGIeQucxLy9FOoVIbHLr0rPMAZmYZCsObv6Jb0zqZGWGX67OQioCFg0SfxG7z3SotCnueBd%2FkkWGIbzQxmsWEkTGa0Ksm7%2B95WPmXF7Zy9EFOhtg3GeAastIIbA16wSuDkHgVO7ZgiLW17aMgi%2FBGv8SKwmtQbyPQsrc0FgnrULhw5NX3bLUzMM4E94OQvg%3D%3D%7Ctkp%3ABlBMUObAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$47.99",
+        "extracted": 47.99
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "241 sold",
+      "extracted_quantity_sold": 241,
+      "thumbnail": "https://i.ebayimg.com/images/g/PeYAAeSwsTdoYBVr/s-l140.jpg",
+      "seller": {
+        "username": "maheerselects",
+        "reviews": 1400,
+        "positive_feedback_in_percentage": 98.3
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2, 5, 10 LB GUATEMALA FRESH ROASTED COFFEE WHOLE BEAN, GROUND - ARABICA",
+      "link": "https://www.ebay.com/itm/153271052999?_skw=coffee&var=454043222859&itmmeta=01K221BW0JNZ3632Q9XE9GR3DX&hash=item23afaaaac7:g:PKEAAOSwpFNe3UdW&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1c6UdJNJQq6y1y61242ZYVh5s1lUr4FPLzpdoEeXyQA4QFeVaws7eRl%2F1RBPj7RO94p7%2FY9XNtwjMNWyYRZgCeYGr3%2FdktAz%2F4EROglwRY22UbYeuWPh1W3cu7Tkg6BEaXGsMBVzqS1ur%2BG3H72%2F%2BWn5gIZ1o%2FlkMYM4FIgsbOyfUtdFSXftUpuvG4ISgUyctt6PScV25drG0EgxwiB9qpOKumiVje9ShM1MiNbbetuX6TjCJDhm2CLtknkSBhLjoClVJZj2uJnekPXTBBO0LRI%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$25.46",
+          "extracted": 25.46
+        },
+        "to": {
+          "raw": "$89.09",
+          "extracted": 89.09
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/PKEAAOSwpFNe3UdW/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "5 lbs of AUTHENTIC Kona Extra Fancy Coffee - Free Shipping!",
+      "subtitle": "TOP TIER COFFEE! Research other eBay sellers off-site!",
+      "link": "https://www.ebay.com/itm/226354572048?_skw=coffee&var=525771201839&itmmeta=01K221BW0J7GE6JFM32Y0VHG66&hash=item34b3c8ab10:g:KdYAAOSwS2hdCERk&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1f4mInaqkd8ROIvlGUbeK3biTFMY8DOva93qfROlGFHE5otP6l81aRzF8fMDmlY%2F2JpwSPHh0fut0WGiRk%2B2%2Fo1kWr9Fa1Y%2FXgDSpFoPNRk5CpjXI3oTFZlJxvThlgAmh87CGK3afnjwpA2ll0sZM5lDTRTWA%2BJ%2BzUA9TCgJl6clfbwkfTa8mNURM5IL%2BdA98COYYBwsTH1nBpHrOvli1Acpp3nApypIjm1PH4ydRZ7boQ5KR%2FFpnPIwkQyzgN1MjhugO2oFXV4ZWAOvHpSM42N%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$102.00",
+          "extracted": 102
+        },
+        "to": {
+          "raw": "$118.00",
+          "extracted": 118
+        }
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "thumbnail": "https://i.ebayimg.com/images/g/KdYAAOSwS2hdCERk/s-l140.jpg",
+      "promotion": "Extra 10% off with coupon",
+      "seller": {
+        "username": "roccoroasters",
+        "reviews": 376,
+        "positive_feedback_in_percentage": 100
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Community Coffee Breakfast Blend 12 Ounces, Medium Roast Ground Coffee, 12oz Bag",
+      "link": "https://www.ebay.com/itm/405919820646?_skw=coffee&itmmeta=01K221BW0J1EHK2AW7JK81DFR5&hash=item5e82b4eb66:g:328AAOSw9dZoPejV&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1f8N3kNT%2FvJiKEiE3d2V2vQtdJSz0GJY9gc%2BqZCJPpxDKfZqCIsFrXsHAtYxMgIxCFC7L97oAmhF%2BIVgJvSB1342DLfTyOWNegOvcaBuastRyFeGqW%2FGBe3Ds0MRt1KvJhPSqk4s761Q6zaKmmpvd70w9GQ%2Bbd%2BSU5WSJcoivs17%2FyyCP61BeE0zCJTg10OSOqT6FtpYr9id8%2B5E%2FoABZG4zebhFW2SMgR5hk3wMJzGtg%3D%3D%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$18.35",
+        "extracted": 18.35
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "9 sold",
+      "extracted_quantity_sold": 9,
+      "thumbnail": "https://i.ebayimg.com/images/g/328AAOSw9dZoPejV/s-l140.jpg",
+      "seller": {
+        "username": "abdula41",
+        "reviews": 200,
+        "positive_feedback_in_percentage": 98
+      },
+      "stock_status": "Last one"
+    },
+    {
+      "sponsored": true,
+      "title": "2 Pack Of Ryze Organic Mushroom Coffee",
+      "link": "https://www.ebay.com/itm/357077685272?_skw=coffee&itmmeta=01K221BW0J05XR26PMKTK86F37&hash=item53237d1418:g:QY0AAOSwcnpoSGWF&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1d0%2Fp3R8GgMuJYDVHkaszIa6TBDZjkccgs67Xf0Wh9mwbLw1mSaeJucdeU5zaJZvHpUR%2BzKhNYFOvbdtF03C3DpmruOUN1sIldfomloO0errvVEi8gwguBlD0MPfUA3t4U32jvpCAHWLx46ouQZTCv0r9yXAXGEp07NWnCyU54%2FUOcHLef22g1vKTXrpE1HxNBQKPfLhT8pySKDH7HC73UggEIlDMzAzOgeWR8uaqRlLg%3D%3D%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$26.90",
+        "extracted": 26.9
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "329 sold",
+      "extracted_quantity_sold": 329,
+      "thumbnail": "https://i.ebayimg.com/images/g/QY0AAOSwcnpoSGWF/s-l140.jpg",
+      "promotion": "Save up to 8% when you buy more",
+      "seller": {
+        "username": "shehz_34",
+        "reviews": 58,
+        "positive_feedback_in_percentage": 93.9
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2, 5, 10 LB INDONESIA SUMATRA MANDHELING FRESH ROASTED COFFEE WHOLE BEAN, GROUND",
+      "link": "https://www.ebay.com/itm/163165911700?_skw=coffee&var=463864359207&itmmeta=01K221BW0JJFZW4XB5SVV3AJSC&hash=item25fd723a94:g:cAYAAOSwuh1e3Rwv&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fi%2BesDXWtbtlveVv0mpxZhhECO5BV0DMmAmDmaDIDanHv03bwGYP4S1NmlokB7WKn87I2xBruh1UBIsx072RoSW2sh0c4zWScYcEt1iJavAj3LWPgGJJ96sL8OQopypenZVPDMaGr53NuVmQh9s5U4uSGWyOi51n11yFwquLqqGtx%2Bg%2FNQN0%2BHmKLbvl6r97%2BwEjXknA5BSYBLadhaYcNn9euy4MYCYUY4GEftOC3bH2CY7Bmm1Z5%2FmaN1DK84azrbfQDtHUOgoXZSZiTPqgVc%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$32.53",
+          "extracted": 32.53
+        },
+        "to": {
+          "raw": "$110.69",
+          "extracted": 110.69
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/cAYAAOSwuh1e3Rwv/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "McCafe French Roast, Ground Coffee, Dark Roast, 29oz. Canned",
+      "subtitle": "1 Can of 29 Ounce | Direct From Manufacturer",
+      "link": "https://www.ebay.com/itm/314203682581?_skw=coffee&itmmeta=01K221BW0JWZ1WVCQBR7VETPSV&hash=item4927ffb715:g:TcMAAeSwEatokgux&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1etLHoBz0R0YSsDIhGlE5UtYK2lPWYRsljfc%2FDWf8UZU05m2rtSvzg5rqADzzw%2F5dGFy06s0pelcrJRL2WvRa8nyxVpiwT3ZPriaYEpIXIn8py0ChQy9Y9RDDnHt%2FgUPQMXvmpcXd0TwfNl8WBmTmYQyB6Qd%2BRCW3oqPC1P4RURQM7IvF7WsSuB%2BV6%2FBRgGggrO8BClOiTxBiBXSUTQQ3U3iPxToKGZeXup2Zz3mkMCnw%3D%3D%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$14.99",
+        "extracted": 14.99
+      },
+      "old_price": {
+        "raw": "$23.99",
+        "extracted": 23.99,
+        "discount": "38% off"
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "location": "Located in United States",
+      "extensions": ["Direct from Keurig"],
+      "quantity_sold": "649 sold",
+      "extracted_quantity_sold": 649,
+      "thumbnail": "https://i.ebayimg.com/images/g/TcMAAeSwEatokgux/s-l140.jpg",
+      "promotion": "Save up to 20% when you buy more",
+      "seller": {
+        "username": "keurig_direct",
+        "reviews": 47600,
+        "positive_feedback_in_percentage": 99.7
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "4 pack Ryze Creamer Mushrooms & Probiotics W/4 RYZE Spoon FREE SHIPPING",
+      "link": "https://www.ebay.com/itm/167662260823?_skw=coffee&itmmeta=01K221BW0J3Q76TJQS21NTS34S&hash=item2709731257:g:M8AAAeSwC~doffjy&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1dfHVuq4nNaN%2BCIl6uybzfwhYCS4uJy3b4ko%2Bh3kpEvrB4R6nEf%2FUoUe8fPeWAHkuvkuYzPed2kIXhQXjWoRo9YAlKeVuJz2N9YuAv1pgLhLS4diPa3U3Fm0Y6YzZJOZQGvqnbc85Swxa2s04rEZ444ONhK72KDKy96eSyEacGrpltpXPuAZK5fTztFvqumr%2FVMlry5R5v0KQ1h4CpE5OfPpU6j0EcCNaZ95I9yarthhg%3D%3D%7Ctkp%3ABlBMUObAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$19.68",
+        "extracted": 19.68
+      },
+      "old_price": {
+        "raw": "$42.68",
+        "extracted": 42.68,
+        "discount": "54% off"
+      },
+      "shipping": "Free delivery",
+      "location": "Located in Hong Kong",
+      "thumbnail": "https://i.ebayimg.com/images/g/M8AAAeSwC~doffjy/s-l140.jpg",
+      "seller": {
+        "username": "fgjhjhgj",
+        "reviews": 0,
+        "positive_feedback_in_percentage": 0
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast 2.2 lbs (Pack of 6)",
+      "link": "https://www.ebay.com/itm/335323017497?_skw=coffee&itmmeta=01K221BW0J6NXXX6EEMB9JX12B&hash=item4e12cf3119:g:~Y0AAOSwTT5jwHIV&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1c0MKPKQ6JmjLdMmAtUGzt7CFfKFN2gkh0NACTqAA%2Fzpl72qpWVhcjgZR%2F8SmuWeHO%2Fa3oL%2FNE3ElgRZzKgVmmYQNhoyNFVIyD2ehszRfVIeOc6%2FUI8oHc0VpgUXZKEwRakHYEz31B%2BS0knsROO3Hlm2%2FUBlBrYTnpmFSVgw00cXL0iU3rC2lNgZmhTUTOrbWtd18s6P0z%2BP%2Fr470k09IuZJa7iqkWG5JXkz3ggIqT1ww%3D%3D%7Ctkp%3ABlBMUObAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$159.99",
+        "extracted": 159.99
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "thumbnail": "https://i.ebayimg.com/images/g/~Y0AAOSwTT5jwHIV/s-l140.jpg",
+      "seller": {
+        "username": "lavazzausa",
+        "reviews": 1000,
+        "positive_feedback_in_percentage": 98.4
+      },
+      "watchers": "44 watchers",
+      "extracted_watchers": 44
+    },
+    {
+      "sponsored": true,
+      "title": "*2025-8-12* Starbucks Whole Bean Coffee, Starbucks Blonde Roast Coffee, Veranda",
+      "link": "https://www.ebay.com/itm/205653915976?_skw=coffee&itmmeta=01K221BW0K92N623MHSERGCPJX&hash=item2fe1edb948:g:JuMAAeSwb5pokgG-&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fbxa5acAcP3eH2msFZG2e6H76jIuVzg2If1FOdAD6YmZhARmhFdZXbdDx0R7ReeOHo%2FGwXuP2UnAUVaQzR8J3YWQxvKbK9ARG0mcvmXi7vCnCmpElgEsJ77tuQYniz5f8Jx75A4gndRJElx3xphHm1QU1HvVS4jyGsf6FErYIrsbRjsGeva50jHwgoRZoncbdVm5uQkvDy0wY8dpSLqiipRVcXqX2qRbO4qSAcOWRp5%2BnYyAJW5Jm3KO1NsNndiRb%2FUaOu6TDWWOxd56ELnk70%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$39.99",
+        "extracted": 39.99
+      },
+      "shipping": "Free delivery",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/JuMAAeSwb5pokgG-/s-l140.jpg",
+      "seller": {
+        "username": "gr_liquidators",
+        "reviews": 40400,
+        "positive_feedback_in_percentage": 98.6
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2, 5, 10 LB UGANDA ORGANIC FRESH ROASTED COFFEE WHOLE BEAN, GROUND - ARABICA",
+      "link": "https://www.ebay.com/itm/163791106594?_skw=coffee&var=463864405615&itmmeta=01K221BW0KSR76KJ9S4KFY7WEB&hash=item2622b5f222:g:rUcAAOSwCqJe3TJO&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1cbRbM9LPdDpmL%2BMowto7RLu1kDCywo0lYFIj%2B5QkudBu3Sy8rbN7%2BGaaB78Jbu8YHp8dFDH0yZNm3OY%2BJCGCNZXPpyEpRHTHx92pUyJGug4hBK42ZRYQIaxTsG%2FwZBpYO3p2O2hHODjYHhNbtDA0%2B4Qfy2HXAbMtu6Ij53ARktjwI6MOQxbIR8tglxyh%2F9cP%2FHTgqCE3luwmJA1X19cvuHChevdbQEixKKzoeSXiA1Y65xcggICV3Px%2FHGZVXZUoY9iKoc7CRF0rf2BIh7QJwI%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$25.46",
+          "extracted": 25.46
+        },
+        "to": {
+          "raw": "$91.66",
+          "extracted": 91.66
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/rUcAAOSwCqJe3TJO/s-l140.jpg",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Starbucks Arabica Beans Breakfast Blend, Medium Roast Ground Coffee, 12 oz",
+      "link": "https://www.ebay.com/itm/177231833012?_skw=coffee&itmmeta=01K221BW0K7TVK67GYJEYN45EV&hash=item2943d727b4:g:gKcAAeSwhEVoYaMG&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1ePWl%2FfvSrTBqIAtosqjTXhDz%2BVpu9pSY9fZ%2FNjNG2NuKHm2co3oySqz5aXVnoT0K0bVdRcLF9gwxNGt24uNFIVv%2B270SjDp41N3k3C1q7rKex8Smj%2FEjpFU36B4pWc573EGQO2dG7TYTghTDCQ85fXoYFwK3wbBNVSVXN4zvsYzQbbDaqZ9dI9gAZKUSkSqBjgGI%2Fo%2BZ%2BjYLn98RVpuy3VYU8FT%2BXr9F1FKwvhTam6sg%3D%3D%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$7.00",
+        "extracted": 7
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "40 sold",
+      "extracted_quantity_sold": 40,
+      "thumbnail": "https://i.ebayimg.com/images/g/gKcAAeSwhEVoYaMG/s-l140.jpg",
+      "seller": {
+        "username": "j_h_trading",
+        "reviews": 1900,
+        "positive_feedback_in_percentage": 99.5
+      },
+      "stock_status": "Last one"
+    },
+    {
+      "sponsored": true,
+      "title": "Peet's Major Dickason's Blend-Dark Roast Ground Coffee-LOT OF 6-18 oz check BB!",
+      "link": "https://www.ebay.com/itm/116500093655?_skw=coffee&epid=23051866080&itmmeta=01K221BW0KK054TDKS17J2J4YR&hash=item1b1ff25ad7:g:fMoAAOSwvXhnwi3W&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1d%2FAFBG5qmJ7Iub9yx0VbT0qLGN9C7jWZizGAfIg6m1PSJUr3rDFn1RCqgUxdLLCk29%2F53469sM7uunUI7aiOOMaBTKTt6tZWyvoVGztX8MZq8ygk32aCr5r%2F2IQcSe%2BP8RG98xbPI6APhU4Nym2ELIwyJxMPdzC8zr7rcbReprcVCozzaLKypKX%2BBbAmna6IfHPebTBpu2jciWqFADS1nqAWVuyAn6fv%2BhcTD%2FTOBO%2BA%3D%3D%7Ctkp%3ABk9SR-bAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$55.99",
+        "extracted": 55.99
+      },
+      "shipping": "Free delivery",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "82 sold",
+      "extracted_quantity_sold": 82,
+      "thumbnail": "https://i.ebayimg.com/images/g/fMoAAOSwvXhnwi3W/s-l140.jpg",
+      "promotion": "Save up to 8% when you buy more",
+      "seller": {
+        "username": "futy.inc",
+        "reviews": 4300,
+        "positive_feedback_in_percentage": 98
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Nescafé Taster Choice French Roast, Medium Dark Roast Instant Coffee 7 oz 2 Pack",
+      "link": "https://www.ebay.com/itm/286687417262?_skw=coffee&epid=1973768063&itmmeta=01K221BW0KN9BZZC5RK96C1Q22&hash=item42bfe6d3ae:g:kfMAAeSwrd1oZxF6&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1d7eiuPK7vd5WFA4HNZ%2BcjDavx7W1OqQeyWoCQKfG3UfRhGi9duQJl3rBea7cn%2FcBdzW%2FHVFvn6%2F80EodrH2yFTPCoEEpt44ROz6WN1BaqKkxCuuWCdsoUACNoFk5x6j6%2BoXczk2dF0umfNwlGpHgbh4oMBZfgdMdRYiDKp2WFbSRzcLbVWB31SdCoNHoQCvtWylwlqvmYKX60RsWCu%2B2gX6VKx3WyngCVHCzrKHXTp8980HiiH04JD5CV%2B29J%2BPtUrjXCEKy4QcgrXH6SrjMzQ%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "rating": 5,
+      "reviews": 21,
+      "price": {
+        "raw": "$15.29",
+        "extracted": 15.29
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "20 sold",
+      "extracted_quantity_sold": 20,
+      "thumbnail": "https://i.ebayimg.com/images/g/kfMAAeSwrd1oZxF6/s-l140.jpg",
+      "seller": {
+        "username": "haroo-qaise",
+        "reviews": 664,
+        "positive_feedback_in_percentage": 96.3
+      },
+      "stock_status": "Almost gone"
+    },
+    {
+      "sponsored": true,
+      "title": "Starbucks Premium Dark Roast Instant Coffee, 3.17 oz",
+      "link": "https://www.ebay.com/itm/205503469959?_skw=coffee&epid=1400933072&itmmeta=01K221BW0KE6ZVV91XBVSQ5YFK&hash=item2fd8f61987:g:sgMAAOSwBDtoL2f-&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1dWyl8TEPX8uOnGeHsr0SdRHj1cU%2FDiNJj6iW%2BiTuRfulZIee2YJJPmOIg%2FtjLj1DU%2F6SjKeFI8nEQj0CtIcg4b44TjtahORAkhX579nvihYI7bTVnHQoEoq2%2Fse1qeT%2Bz3%2BwDkqirtd4uP7%2BMIKfWBwkxnnnwpi%2BR8zRVZI3ZFDxKTEWP482fEjT7RiknXGhV6L6nZ8qWypM8qN%2FFMQ%2FoixyRLpUqecbpT%2BXYoqZ29VA%3D%3D%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "rating": 5,
+      "reviews": 9,
+      "price": {
+        "raw": "$6.60",
+        "extracted": 6.6
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "109 sold",
+      "extracted_quantity_sold": 109,
+      "thumbnail": "https://i.ebayimg.com/images/g/sgMAAOSwBDtoL2f-/s-l140.jpg",
+      "seller": {
+        "username": "mktra98",
+        "reviews": 1000,
+        "positive_feedback_in_percentage": 99.7
+      },
+      "stock_status": "Last one"
+    },
+    {
+      "sponsored": true,
+      "title": "Tully's Coffee Hawaiian Blend K-Cups, Medium Roast Coffee, 96 Count",
+      "subtitle": "4 Boxes of 24 Pods | Direct From Manufacturer",
+      "link": "https://www.ebay.com/itm/314431850649?_skw=coffee&itmmeta=01K221BW0KWBYZDS9HRXHE3444&hash=item4935994899:g:EDoAAeSwjDFob9lb&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1dPBXk8qanEdxHRlQqNDdpr5WUG4uGk0EUbnQ%2FxhjwDe%2FwMxq7uanYvFuXGJUaeivte4kXuBvdG%2BLU%2BiFNbEo7CXxO8AlF2sqIk5zbXFpqtu9950xhYKToHU44TmYztnP0m9VQVaZKsQKDWxJXoVoWbKBDo2n6g26nHMv9dHyUi9wRoml5wDEi2Hrq2NmgzlejdMEZ5yEwCHNKP3Tcn1TBCpJdeG9gt6EDBfhmKPKla%2BA%3D%3D%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$39.99",
+        "extracted": 39.99
+      },
+      "old_price": {
+        "raw": "$75.96",
+        "extracted": 75.96,
+        "discount": "47% off"
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "location": "Located in United States",
+      "extensions": ["Direct from Keurig"],
+      "quantity_sold": "5,658 sold",
+      "extracted_quantity_sold": 5658,
+      "thumbnail": "https://i.ebayimg.com/images/g/EDoAAeSwjDFob9lb/s-l140.jpg",
+      "seller": {
+        "username": "keurig_direct",
+        "reviews": 47600,
+        "positive_feedback_in_percentage": 99.7
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Starbucks Italian Dark Roast Ground Coffee — 100% Arabica — 6 Bags (12 Oz Each)",
+      "link": "https://www.ebay.com/itm/204699434412?_skw=coffee&epid=1400116139&itmmeta=01K221BW0KAXPYZ3RTJQ8AVCZF&hash=item2fa9097dac:g:GewAAOSw~a5mFWj~&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1dv90P2z1fKOIlAMDYMLCxofgEGJ1qQHqXvbmbnUvDSmVfchCAIDy1kNQ3OipqdUSv4FngH0ZdzdJOFV0gw73AZO1sxP6qa08g5vatxrcOH%2F4TdRMRZC4hoPVK1DkOof8OEEgZej%2Fz3d%2F0Rnh%2BhX5Ui%2BX%2F2K9Nv9EteclBS0RK5TWi49W34Zu8Zw97j9c%2F2xGBIxkd1tWbWms%2BvJqZdfLlmR3k5vsy59wdTsMb%2BSG5U%2FMjytxWZWVdkfXwSoVdyu4UiJRKtKDdFMqojYcCGOEK4%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "rating": 5,
+      "reviews": 20,
+      "price": {
+        "raw": "$37.79",
+        "extracted": 37.79
+      },
+      "old_price": {
+        "raw": "$41.99",
+        "extracted": 41.99,
+        "discount": "10% off"
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "location": "Located in United States",
+      "quantity_sold": "134 sold",
+      "extracted_quantity_sold": 134,
+      "thumbnail": "https://i.ebayimg.com/images/g/GewAAOSw~a5mFWj~/s-l140.jpg",
+      "promotion": "Save up to 10% when you buy more",
+      "seller": {
+        "username": "discountplace",
+        "reviews": 5300,
+        "positive_feedback_in_percentage": 99.5
+      },
+      "stock_status": "Almost gone"
+    },
+    {
+      "sponsored": true,
+      "title": "Organic RYZE Mushroom Coffee 30 Servings [ Free shipping ]",
+      "link": "https://www.ebay.com/itm/357373943342?_skw=coffee&itmmeta=01K221BW0KB1EWT6WP08ZMA9Q6&hash=item5335259e2e:g:zNUAAeSwAfxoiJLu&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1cUqG14e8cwWt9PxmGCYlfDp2NVSVvKWn%2Finyq3xYEfE31ImkCfETUr8LQwZNxGT%2BL%2Fyig%2FE4ue8qjDFGqC64Po23XhmYt8KZE4q71ytIXznUpKGnck48Q72K8McjkHoXQwMEJreO2HBlQ35D%2BY8jzgXd95xj0KHLYxJUIVwJT1DEqgBZwslAA0%2ByVqHcU%2BCqfoUXmaXIHpLHtwr26sL1YLIqGzH9k3lwK9nK2guUIfVbP4XXAueTnem%2FcN1NKVvNf83Z9RoAEEvkPJJZyKNpAA%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$16.45",
+        "extracted": 16.45
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "35 sold",
+      "extracted_quantity_sold": 35,
+      "thumbnail": "https://i.ebayimg.com/images/g/zNUAAeSwAfxoiJLu/s-l140.jpg",
+      "seller": {
+        "username": "thearmzstore",
+        "reviews": 24,
+        "positive_feedback_in_percentage": 100
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2, 5, 10 LB PANAMA BOQUETE ROASTED COFFEE BEANS WHOLE BEAN Or GROUND - ARABICA",
+      "link": "https://www.ebay.com/itm/154914733129?_skw=coffee&var=455040729488&itmmeta=01K221BW0KV5374T1Z85VD4QNG&hash=item2411a33c49:g:rlUAAOSwj19e07NX&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fqFIgu2sTZNRGX63iypJ04mMV1P2E3fE6H1aeEt1IFlLcEFgW7qSDwUEPDpevdXY0xFW%2Ba29ab8IOzMWa%2FhRFhj0Gc8dVRxP%2B8REyIc1UlSAM46pUKuJECbWF0JtkRVqH%2FfxDpm%2BGy0aQUu%2BHguiVKIBDRiRQcoMTFUoBSVixZj3puHmQ1hhkq%2FdnR9a2qoO4cmIn3NvehpxGjWRbciKOXKqpmLtpGc4wXkfbrnsCErIl4GHLvIkVKR9PjT32h%2B1hWJG0%2BAjN6TmHgxFCEpEi6%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$25.46",
+          "extracted": 25.46
+        },
+        "to": {
+          "raw": "$86.54",
+          "extracted": 86.54
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/rlUAAOSwj19e07NX/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2 lb 5 lb 10 lb BRAZIL BRASIL FRESH ROASTED SINGLE ORIGIN COFFEE BEANS - ARABICA",
+      "subtitle": "AVAILABLE WHOLE BEAN OR GROUND - BUY MORE AND SAVE !!",
+      "link": "https://www.ebay.com/itm/153136587746?_skw=coffee&var=453148129959&itmmeta=01K221BW0KJZRKPR9F3SB5Y9CV&hash=item23a7a6e3e2:g:IQYAAOSwoZlb9euq&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1cHrZjZhPmEgKLFbMIbhiT0sYryTfMTZS3ehREFLmf7C1uiSHdhF1ptIX86qdMY63s07ZHH2rEostxZ5IRhxTf4YqFd9tiXomjtfT%2FifKw1UkpHBE5vxLhoRkZ0y5wVyTxp%2BOSsOj6f80nZA%2BJTDwlC%2Fg9sAPkr8McZR1CSuq518tJCVzMwxN5cscWcH11zpHy98yBfqhRxTW61%2F7FdNI5pXoDuWgc8TY3x7dGk%2Bux139dWJxAfxcvMAnK0--E7%2FC84kEiVh4m6jJcepS56oiIW%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$29.69",
+          "extracted": 29.69
+        },
+        "to": {
+          "raw": "$89.10",
+          "extracted": 89.1
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "71+ sold",
+      "extracted_quantity_sold": 71,
+      "thumbnail": "https://i.ebayimg.com/images/g/IQYAAOSwoZlb9euq/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "2 5 10 LB TANZANIA PEABERRY FRESH ROASTED COFFEE WHOLE BEAN, GROUND - ARABICA",
+      "link": "https://www.ebay.com/itm/153569040562?_skw=coffee&var=453572896234&itmmeta=01K221BW0KWTGWPJ85KNB8FVFE&hash=item23c16d98b2:g:E1kAAOSwk5NdOeSd&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fOyOrZuKCtOWtxSm7rlyBbDLktnlw3lbhn47OfGhb0W%2FmmgStCHrEmJwIAXqBbCUWOC07HXXukrI5pBrXJfnVLqZF3PDNuCBWFzvm%2B1oo3jgoR7A1nlhH2tCZjE8jJ%2FUrRqr5CyoUw1GePGYh%2Fn38ZvR7qqwlFHPL6e%2BmZ1PT8H%2FGdMuHJL%2Bsr9lQ3o%2BBbCM6JgaSMvZGMFFjG3vhECrIgQS%2FJ874M7qyuUhldJN5VMu8ibPrjOkI0PoIxPOFti6L43OMvuiY5Xnd6zLp0L0C%2B%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$31.12",
+          "extracted": 31.12
+        },
+        "to": {
+          "raw": "$101.84",
+          "extracted": 101.84
+        }
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/E1kAAOSwk5NdOeSd/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "vilarimports",
+        "reviews": 23500,
+        "positive_feedback_in_percentage": 99.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "100% JAMAICAN BLUE MOUNTAIN COFFEE BEANS PEABERRY MEDIUM ROASTED 2 TO 12 POUNDS",
+      "subtitle": "You Can Buy A Cheaper Coffee But Never A Finer Coffee !",
+      "link": "https://www.ebay.com/itm/134396434550?_skw=coffee&var=433860680591&itmmeta=01K221BW0KENDAA5VF2R441XZA&hash=item1f4aa6d876:g:HW8AAOSwPeNfC1kY&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1cam2bFWRG91GnxCi4z70sGM5HhO%2FUVZG%2F73aozPk7fZGSRjziiJHuAcc7GoDGIhNkxJLKhfSQSXhXGI4unhGG6VVLJlihwR2%2Bu1p3dkXpIDTiG2Kr%2Bm3fJDZ7hGgZDi6TN8VyTmm9xG%2FsKZg%2BRKJtEh42tdw8lNAQW%2BR%2BAHdIKVzbh1E2tPzu4Drhfo%2B8pO60qW4J%2BlVfa%2BEQNRX3DtbtOHYq9qy%2BsKBhmF%2BcXvVfFNJrqNEXNiPceqsdDgUvRWfNZXHbiBrGWAyYMn3GMukES%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "from": {
+          "raw": "$58.95",
+          "extracted": 58.95
+        },
+        "to": {
+          "raw": "$199.95",
+          "extracted": 199.95
+        }
+      },
+      "shipping": {
+        "raw": "+$3.95",
+        "extracted": 3.95
+      },
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "140+ sold",
+      "extracted_quantity_sold": 140,
+      "thumbnail": "https://i.ebayimg.com/images/g/HW8AAOSwPeNfC1kY/s-l140.jpg",
+      "promotion": "$15 off 3+ with coupon",
+      "seller": {
+        "username": "bluemacawcoffeeroasters",
+        "reviews": 70000,
+        "positive_feedback_in_percentage": 99.8
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Brand New 6-12oz bags Starbucks Veranda Blend Whole Bean Light Blonde Roast",
+      "link": "https://www.ebay.com/itm/277279959200?_skw=coffee&epid=1700090497&itmmeta=01K221BW0K658HQ05A6VY8JBQ6&hash=item408f2c68a0:g:R~cAAeSwJj9ofDX1&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1du8B%2Fi768CDtpBSdXdkcDh06H1vbWKumIZW6XPVq%2FRmEuTREdYsD%2B1HPsmSXhGnLNDJrchkeLRviPGqXKCVbyzI7Wuiai%2BYv%2FxON3P5LKfRrZb%2B0pVsuvHPA8hLJJo58fbEHzolEWqYaMZahIm4RjSUyhx%2FB0CzW8nkH3VOPrcWuzCyAHvGiu7uNcZrOvFogbP2SYTQGUfXsNvdXTLtTxDbLw44lFC1K9Sx8tWTZQS505uwdUP7PGYKCytMay91pd1GXcqm%2FgAHy57cdzN54ZW%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "rating": 5,
+      "reviews": 40,
+      "price": {
+        "raw": "$48.94",
+        "extracted": 48.94
+      },
+      "shipping": "Free delivery",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "quantity_sold": "30 sold",
+      "extracted_quantity_sold": 30,
+      "thumbnail": "https://i.ebayimg.com/images/g/R~cAAeSwJj9ofDX1/s-l140.jpg",
+      "promotion": "Save up to 15% when you buy more",
+      "seller": {
+        "username": "gemstateoutfitters",
+        "reviews": 1800,
+        "positive_feedback_in_percentage": 99.5
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "McCafe Premium Roast Coffee, Keurig Single Serve K-Cup Pods, Medium Roast, 96 Co",
+      "link": "https://www.ebay.com/itm/317130373998?_skw=coffee&itmmeta=01K221BW0KW2DY48T4XN0QYJPC&hash=item49d6717b6e:g:ZkAAAeSwzdVoip6r&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1fhBQwaFPPrr7ihd%2B%2BCV%2Bm4e0UfJX9Tq%2Fu2WUlR8PtDrgSnEwZNyJlTf9Ai036ysVY2Iya%2BiDcu%2FO3kt4G%2F1faJ9oU%2FBw10RUwHG5Ps0hHgrdpt3WRZpIei4fNy3SCe4jxvBLGJjTZqRJ2lptcrc47auj2KrZp8e6N%2FyKbDjAWrizAoOzwin5UwlDmq0QtdYyTuxP4SyBhYxzW8tkgXaLxxE3p4RwW%2FZdqjtks4bwzrJg%3D%3D%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$32.99",
+        "extracted": 32.99
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "10 sold",
+      "extracted_quantity_sold": 10,
+      "thumbnail": "https://i.ebayimg.com/images/g/ZkAAAeSwzdVoip6r/s-l140.jpg",
+      "seller": {
+        "username": "tarwsi-11",
+        "reviews": 39,
+        "positive_feedback_in_percentage": 100
+      },
+      "stock_status": "Almost gone"
+    },
+    {
+      "sponsored": true,
+      "title": "Starbucks 20lb Thanksgiving Fall Blend Dark Roast 4x5lbs bags-Whole Bean 3/25",
+      "link": "https://www.ebay.com/itm/116361857516?_skw=coffee&itmmeta=01K221BW0KY578S68FMTV8CKED&hash=item1b17b509ec:g:wLEAAOSwTQZnEXVp&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1eadqXTw4oAOArgKLmsMhFDdjyXVCXvHDRBdFOnFoaW%2FZ5zMpyNjkTyuavYSlBw1mj1RLM2dEgEiuoeRQdOVgnWQNSpdFWTLZAJUB1nrPdNL%2BQ4WQFKmT3MWLJ%2FntNE%2FXmG1iIO52jCwp4nKyvW0%2Bcwfq8nxIozKZAl1G8y3OHCu1pQutRsHgt7d23mf%2BHjizdD%2BqPT48sQ7U6rN5RHQmK4aL4McTRTvNjZBgmBiIgwwkG%2FZ%2BdsGiWjeY7Pnn2hZpmTJPlqZjULbGO7WBkCcWiA%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$99.00",
+        "extracted": 99
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "720 sold",
+      "extracted_quantity_sold": 720,
+      "thumbnail": "https://i.ebayimg.com/images/g/wLEAAOSwTQZnEXVp/s-l140.jpg",
+      "seller": {
+        "username": "dee_kup",
+        "reviews": 869,
+        "positive_feedback_in_percentage": 98.2
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Eight O'Clock Coffee Dark Italian Espresso Roast KCup Pods, Dark Roast, 24 Count",
+      "subtitle": "1 Box of 24 Pods | Direct From Manufacturer",
+      "link": "https://www.ebay.com/itm/314155852587?_skw=coffee&itmmeta=01K221BW0KN1JF7W826EMB1HPY&hash=item492525e32b:g:h2kAAeSw6Alob9lM&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1eY%2FSH1zZb5bCImISdGr2yMcoDMgypJnW6jQsy%2FGLa8dTiYPc89LYzA72FiplzPxH0iqXEMa%2BdcRRqCHy3xOJMNa9DtVUyOmIQM2F8ndTATpjPf9gbKAOOnU3t8LkjYv%2F7PkuL1XOg%2FWjzHUb3SlIMYs2aLUtNclhutN64Dq5pkWXrCOdsVipgfTFX3lWvGZvezrq78s5F6PadUcSZG%2FqUiL6eG%2BzVxHyVjkoi727eQKw%3D%3D%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$13.99",
+        "extracted": 13.99
+      },
+      "old_price": {
+        "raw": "$16.99",
+        "extracted": 16.99,
+        "discount": "18% off"
+      },
+      "shipping": "Free delivery in 2-4 days",
+      "location": "Located in United States",
+      "extensions": ["Direct from Keurig"],
+      "quantity_sold": "1,948 sold",
+      "extracted_quantity_sold": 1948,
+      "thumbnail": "https://i.ebayimg.com/images/g/h2kAAeSw6Alob9lM/s-l140.jpg",
+      "promotion": "Save up to 20% when you buy more",
+      "seller": {
+        "username": "keurig_direct",
+        "reviews": 47600,
+        "positive_feedback_in_percentage": 99.7
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "Dunkin' Original Blend Coffee Keurig K-Cup Pods, Medium Roast, 88ct. Free ship",
+      "link": "https://www.ebay.com/itm/226327432722?_skw=coffee&itmmeta=01K221BW0KJFRSCHXABKMECY5Z&hash=item34b22a8e12:g:sL4AAOSwTRJm1KBm&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1eDrXN69HfRD5JhiLGdIlZY%2B9Q2lWwMvaigR1rBHVV6K0K0xXp6Q7gtWt%2Fw2SAy%2Bpj74JNSvfKb0TNNm6yaaZ44Gc%2Bm0qRRxNvHmhG73m3znR70r%2BQS5%2B%2BX8r4pHDW9aEW1o6Fic1hPB9zOCf%2B5M%2B1C2XK4rK7o%2BSOM1mriaNiVmXyOUtvU68%2Fr1KT6vwpA0ipdnPEeEwCb6Yo94RHyNCIzbSuMvyILcfY3KqqDEhNFKGN4peOsI0iIsrHCA5%2FbWxStuApM%2FtyL%2FUt9sTH%2BqE6d%7Ctkp%3ABk9SR-jAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$44.90",
+        "extracted": 44.9
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "quantity_sold": "184 sold",
+      "extracted_quantity_sold": 184,
+      "thumbnail": "https://i.ebayimg.com/images/g/sL4AAOSwTRJm1KBm/s-l140.jpg",
+      "seller": {
+        "username": "hotma-1783",
+        "reviews": 515,
+        "positive_feedback_in_percentage": 99.4
+      },
+      "stock_status": "Almost gone"
+    },
+    {
+      "sponsored": true,
+      "title": "Kopi Luwak 100% Pure Civet Coffee Beans",
+      "link": "https://www.ebay.com/itm/157079546250?_skw=coffee&itmmeta=01K221BW0KQ3WXW96DH5NZDJAE&hash=item2492aba98a:g:E1AAAOSwFfVoR3u0&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1dsa1XNLLptRNbb3MZa1t2I2SopilKiTDQQkNjqTI4tFpXcUZjfOPYw81COVKs%2FR8c5%2FOL80Fy47q2At%2B3DNfW6URQ3cX2bMkmSJb9D1VgoXuRbC8DHjHIJPJeuBYrptn55DBXAuJFyxTUoTd7bq%2FJgHdmkaxLj8q1LUSi6ax3LJLdHuLeqFTpzoaihtRR22AEiAGm9gxOJHNiSnZk%2FaismfcG%2FftHpKXlcaMsKyJVkLQ%3D%3D%7Ctkp%3ABlBMUOjAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$27.00",
+        "extracted": 27
+      },
+      "shipping": "Free delivery",
+      "location": "Located in United States",
+      "thumbnail": "https://i.ebayimg.com/images/g/E1AAAOSwFfVoR3u0/s-l140.jpg",
+      "promotion": "Save up to 20% when you buy more",
+      "seller": {
+        "username": "kopibrew",
+        "reviews": 836,
+        "positive_feedback_in_percentage": 100
+      }
+    },
+    {
+      "sponsored": true,
+      "title": "NEW Four Sigmatic Organic Think Coffee, Dark Roast, 12 oz – Pack of 2",
+      "link": "https://www.ebay.com/itm/306296579367?_skw=coffee&itmmeta=01K221BW0KCBXF07KRQSG94Y4K&hash=item4750b2e527:g:CvMAAeSwfmxoH9DT&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1eqv9jrLP5wKqFk0xtbOdPKc7CvrUrRTg1bxeC4XgxYDE3s3PmfN9YpdocZ%2BcRuAsIbQcuc7qfNXigoNe18Qc5cAcVxbN3w6sJhYQFO8Xk%2Br00Sv22ZKOcyrXJCt%2BQgE1EcR1RjLKgyE90bkKN82gMnN79JvS2z9vGeVzY4h23%2BKlG2%2FEcHUXO0OSwUhezH69VKtUoGNGOHzEF8eBPQRGfRZJq1jwgDqUTOXrBYNALLUA%3D%3D%7Ctkp%3ABlBMUOrAr8GQZg",
+      "condition": "Brand New",
+      "price": {
+        "raw": "$22.00",
+        "extracted": 22
+      },
+      "shipping": "Free delivery",
+      "top_rated": true,
+      "location": "Located in United States",
+      "returns": "Free returns",
+      "thumbnail": "https://i.ebayimg.com/images/g/CvMAAeSwfmxoH9DT/s-l140.jpg",
+      "promotion": "Save up to 20% when you buy more",
+      "seller": {
+        "username": "discount_pantry",
+        "reviews": 1000,
+        "positive_feedback_in_percentage": 98.3
+      }
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "ground coffee",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=ground+coffee&_sop=12"
+    },
+    {
+      "query": "coffee maker",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=coffee+maker&_sop=12"
+    },
+    {
+      "query": "coffee beans",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=coffee+beans&_sop=12"
+    },
+    {
+      "query": "espresso",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=espresso&_sop=12"
+    },
+    {
+      "query": "coffee pods",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=coffee+pods&_sop=12"
+    },
+    {
+      "query": "snacks",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=snacks&_sop=12"
+    },
+    {
+      "query": "coffee machine",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=coffee+machine&_sop=12"
+    },
+    {
+      "query": "instant coffee",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=instant+coffee&_sop=12"
+    },
+    {
+      "query": "tea",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=tea&_sop=12"
+    },
+    {
+      "query": "folgers coffee",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=folgers+coffee&_sop=12"
+    },
+    {
+      "query": "starbucks coffee",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=starbucks+coffee&_sop=12"
+    },
+    {
+      "query": "coffee grinder",
+      "link": "https://www.ebay.com/sch/i.html?_nkw=coffee+grinder&_sop=12"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=2",
+    "other_pages": {
+      "1": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=1",
+      "2": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=2",
+      "3": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=3",
+      "4": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=4",
+      "5": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=5&rt=nc",
+      "6": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=6&rt=nc",
+      "7": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=7&rt=nc",
+      "8": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=8&rt=nc",
+      "9": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=9&rt=nc",
+      "10": "https://www.ebay.com/sch/i.html?_nkw=coffee&_pgn=10&rt=nc"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?_nkw=coffee&_pgn=2&engine=ebay",
+    "next": "https://serpapi.com/search.json?_nkw=coffee&_pgn=2&engine=ebay",
+    "other_pages": {
+      "1": "https://serpapi.com/search.json?_nkw=coffee&_pgn=1&engine=ebay",
+      "2": "https://serpapi.com/search.json?_nkw=coffee&_pgn=2&engine=ebay",
+      "3": "https://serpapi.com/search.json?_nkw=coffee&_pgn=3&engine=ebay",
+      "4": "https://serpapi.com/search.json?_nkw=coffee&_pgn=4&engine=ebay",
+      "5": "https://serpapi.com/search.json?_nkw=coffee&_pgn=5&engine=ebay",
+      "6": "https://serpapi.com/search.json?_nkw=coffee&_pgn=6&engine=ebay",
+      "7": "https://serpapi.com/search.json?_nkw=coffee&_pgn=7&engine=ebay",
+      "8": "https://serpapi.com/search.json?_nkw=coffee&_pgn=8&engine=ebay",
+      "9": "https://serpapi.com/search.json?_nkw=coffee&_pgn=9&engine=ebay",
+      "10": "https://serpapi.com/search.json?_nkw=coffee&_pgn=10&engine=ebay"
+    }
+  }
+}
