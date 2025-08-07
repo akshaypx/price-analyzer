@@ -1,6 +1,10 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Depends, File, Form, UploadFile
+from sqlalchemy.ext.asyncio import AsyncSession
 
-from app.services.serp_api import google_shopping_search, yahoo_shopping_search, ebay_search, walmart_search, home_depot_search, amazon_search
+from app.services.serp_api import google_shopping_search, run_provider_searches, yahoo_shopping_search, ebay_search, walmart_search, home_depot_search, amazon_search
+from app.db.crud import store_product_results
+from app.db.db import get_db
+from app.schemas.schemas import SearchRequest
 
 router = APIRouter()
 
@@ -57,3 +61,25 @@ async def get_amazon_results(query: str):
 
     result = await amazon_search(query=query)
     return result
+
+@router.post("/search-upload")
+async def search_and_store(
+    query: str = Form(...),
+    description: str = Form(...),
+    providers: str = Form(...),  # comma-separated
+    image: UploadFile = File(...),
+    db: AsyncSession = Depends(get_db)
+):
+    image_bytes = await image.read()
+    provider_list = [p.strip() for p in providers.split(",") if p.strip()]
+    results = await run_provider_searches(query, provider_list)
+
+    await store_product_results(
+        db=db,
+        query=query,
+        description=description,
+        image_bytes=image_bytes,
+        results=results
+    )
+
+    return {"status": "stored", "count": len(results)}
