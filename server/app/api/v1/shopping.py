@@ -1,10 +1,12 @@
 from fastapi import APIRouter, Depends, File, Form, UploadFile
 from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy import text
 
 from app.services.serp_api import google_shopping_search, run_provider_searches, yahoo_shopping_search, ebay_search, walmart_search, home_depot_search, amazon_search
 from app.db.crud import store_product_results
 from app.db.db import get_db
 from app.schemas.schemas import SearchRequest
+from app.services.embedder import get_text_embedding, get_image_embedding
 
 router = APIRouter()
 
@@ -83,3 +85,44 @@ async def search_and_store(
     )
 
     return {"status": "stored", "count": len(results)}
+
+@router.post("/search-results")
+async def get_similar_results(
+    query: str = Form(None),
+    image: UploadFile = File(None),
+    provider: str = Form(None),
+    price_min: float = Form(None),
+    price_max: float = Form(None),
+    db: AsyncSession = Depends(get_db)
+):
+    where_clauses = []
+    params = {}
+
+    if query:
+        text_emb = await get_text_embedding(query)
+        where_clauses.append("text_embedding <=> :text_emb < 0.5")
+        params["text_emb"] = text_emb
+
+    if image:
+        image_bytes = await image.read()
+        image_emb = await get_image_embedding(image_bytes)
+        where_clauses.append("image_embedding <=> :image_emb < 0.5")
+        params["image_emb"] = image_emb
+
+    if provider:
+        where_clauses.append("provider = :provider")
+        params["provider"] = provider
+
+    if price_min is not None:
+        where_clauses.append("CAST(price AS FLOAT) >= :price_min")
+        params["price_min"] = price_min
+
+    if price_max is not None:
+        where_clauses.append("CAST(price AS FLOAT) <= :price_max")
+        params["price_max"] = price_max
+
+    where = " AND ".join(where_clauses) if where_clauses else "TRUE"
+    sql = f"SELECT * FROM product_results WHERE {where} ORDER BY created_at DESC LIMIT 50"
+
+    result = await db.execute(text(sql), params)
+    return [dict(r._mapping) for r in result]
