@@ -68,3 +68,14 @@ async def home_depot_search(query:str):
     search = GoogleSearch(params)
     results = search.get_dict()
     return results
+
+async def amazon_search(query:str):
+    params = {
+    "engine": "amazon",
+    "k": query,
+    "amazon_domain": "amazon.com",
+    "api_key": settings.SERPAI_KEY
+    }
+    search = GoogleSearch(params)
+    results = search.get_dict()
+    return results

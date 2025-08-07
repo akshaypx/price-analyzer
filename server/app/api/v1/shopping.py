@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from app.services.serp_api import google_shopping_search, yahoo_shopping_search, ebay_search, walmart_search, home_depot_search
+from app.services.serp_api import google_shopping_search, yahoo_shopping_search, ebay_search, walmart_search, home_depot_search, amazon_search
 
 router = APIRouter()
 
@@ -47,4 +47,13 @@ async def get_home_depot_results(query: str):
     """
 
     result = await home_depot_search(query=query)
+    return result
+
+@router.post("/amazon")
+async def get_amazon_results(query: str):
+    """
+    Perform Amazon search and return results
+    """
+
+    result = await amazon_search(query=query)
     return result
