@@ -16,5 +16,5 @@ class ProductResult(Base):
     image_url = Column(String)
     text_embedding = Column(Vector(1536))
     image_embedding = Column(Vector(512))
-    metadata = Column(JSON)
+    product_metadata = Column(JSON)
     created_at = Column(DateTime(timezone=True), server_default=func.now())

@@ -112,7 +112,7 @@ async def run_provider_searches(query: str, providers: List[str]) -> List[dict]:
                     "price": item.get("price") or item.get("extracted_price"),
                     "url": item.get("link"),
                     "image_url": item.get("thumbnail") or item.get("image"),
-                    "metadata": item
+                    "product_metadata": item
                 })
         except Exception as e:
             print(f"Error fetching from {provider}: {e}")

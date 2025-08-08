@@ -25,7 +25,7 @@ async def store_product_results(
             image_url=item["image_url"],
             text_embedding=text_emb,
             image_embedding=image_emb,
-            metadata=item["metadata"]
+            product_metadata=item["product_metadata"]
         )
         await db.execute(stmt)
 

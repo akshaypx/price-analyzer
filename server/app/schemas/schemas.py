@@ -14,7 +14,7 @@ class ProductOut(BaseModel):
     url: HttpUrl
     image_url: HttpUrl
     provider: str
-    metadata: dict
+    product_metadata: dict
 
     class Config:
         orm_mode = True
