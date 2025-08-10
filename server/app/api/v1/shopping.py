@@ -1,93 +1,79 @@
+import uuid
 from fastapi import APIRouter, Depends, File, Form, UploadFile
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import text
 
-from app.services.serp_api import google_shopping_search, run_provider_searches, yahoo_shopping_search, ebay_search, walmart_search, home_depot_search, amazon_search
+from app.services.serp_api import (
+    google_shopping_search,
+    run_provider_searches,
+    yahoo_shopping_search,
+    ebay_search,
+    walmart_search,
+    home_depot_search,
+    amazon_search
+)
 from app.db.crud import store_product_results
 from app.db.db import get_db
-from app.schemas.schemas import SearchRequest
 from app.services.embedder import get_text_embedding, get_image_embedding
 
 router = APIRouter()
 
 @router.post("/google")
 async def get_google_shopping_results(query: str):
-    """
-    Perform google shopping search and return results
-    """
-
-    result = await google_shopping_search(query=query)
-    return result
+    return await google_shopping_search(query=query)
 
 @router.post("/yahoo")
 async def get_yahoo_shopping_results(query: str):
-    """
-    Perform yahoo shopping search and return results
-    """
-
-    result = await yahoo_shopping_search(query=query)
-    return result
+    return await yahoo_shopping_search(query=query)
 
 @router.post("/ebay")
 async def get_ebay_results(query: str):
-    """
-    Perform ebay search and return results
-    """
-
-    result = await ebay_search(query=query)
-    return result
+    return await ebay_search(query=query)
 
 @router.post("/walmart")
 async def get_walmart_results(query: str):
-    """
-    Perform walmart search and return results
-    """
-
-    result = await walmart_search(query=query)
-    return result
+    return await walmart_search(query=query)
 
 @router.post("/home-depot")
 async def get_home_depot_results(query: str):
-    """
-    Perform Home Depot search and return results
-    """
-
-    result = await home_depot_search(query=query)
-    return result
+    return await home_depot_search(query=query)
 
 @router.post("/amazon")
 async def get_amazon_results(query: str):
-    """
-    Perform Amazon search and return results
-    """
+    return await amazon_search(query=query)
 
-    result = await amazon_search(query=query)
-    return result
 
 @router.post("/search-upload")
 async def search_and_store(
     query: str = Form(...),
     description: str = Form(...),
-    providers: str = Form(...),  # comma-separated
+    providers: str = Form(...),
     image: UploadFile = File(...),
     db: AsyncSession = Depends(get_db)
 ):
+    search_id = uuid.uuid4()  # Generate UUID object
     image_bytes = await image.read()
     provider_list = [p.strip() for p in providers.split(",") if p.strip()]
     results = await run_provider_searches(query, provider_list)
 
+    for r in results:
+        r["search_id"] = search_id  # Keep as UUID
+
     await store_product_results(
         db=db,
+        search_id=search_id,  # Pass UUID directly
         query=query,
         description=description,
         image_bytes=image_bytes,
         results=results
     )
 
-    return {"status": "stored", "count": len(results)}
+    return {"status": "stored", "count": len(results), "search_id": str(search_id)}
+
 
 @router.post("/search-results")
 async def get_similar_results(
+    search_id: str = Form(None),  # Accept string in request
     query: str = Form(None),
     image: UploadFile = File(None),
     provider: str = Form(None),
@@ -97,6 +83,11 @@ async def get_similar_results(
 ):
     where_clauses = []
     params = {}
+
+    if search_id:
+        # Convert string to UUID object for Postgres
+        where_clauses.append("search_id = :search_id")
+        params["search_id"] = uuid.UUID(search_id)
 
     if query:
         text_emb = await get_text_embedding(query)
